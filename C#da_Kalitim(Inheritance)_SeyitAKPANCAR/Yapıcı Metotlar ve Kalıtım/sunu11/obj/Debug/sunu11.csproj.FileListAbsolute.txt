@@ -1,0 +1,13 @@
+c:\users\emir\documents\visual studio 2015\Projects\sunu11\sunu11\bin\Debug\sunu11.exe.config
+c:\users\emir\documents\visual studio 2015\Projects\sunu11\sunu11\bin\Debug\sunu11.exe
+c:\users\emir\documents\visual studio 2015\Projects\sunu11\sunu11\bin\Debug\sunu11.pdb
+c:\users\emir\documents\visual studio 2015\Projects\sunu11\sunu11\obj\Debug\sunu11.csprojResolveAssemblyReference.cache
+c:\users\emir\documents\visual studio 2015\Projects\sunu11\sunu11\obj\Debug\sunu11.exe
+c:\users\emir\documents\visual studio 2015\Projects\sunu11\sunu11\obj\Debug\sunu11.pdb
+C:\Users\HILAL\Desktop\Github C#da kalıtım (inheritance)_SeyitAKPANCAR\C#da kalıtım (inheritance)_SeyitAKPANCAR\Yapıcı Metotlar ve Kalıtım\sunu11\bin\Debug\sunu11.exe.config
+C:\Users\HILAL\Desktop\Github C#da kalıtım (inheritance)_SeyitAKPANCAR\C#da kalıtım (inheritance)_SeyitAKPANCAR\Yapıcı Metotlar ve Kalıtım\sunu11\bin\Debug\sunu11.exe
+C:\Users\HILAL\Desktop\Github C#da kalıtım (inheritance)_SeyitAKPANCAR\C#da kalıtım (inheritance)_SeyitAKPANCAR\Yapıcı Metotlar ve Kalıtım\sunu11\bin\Debug\sunu11.pdb
+C:\Users\HILAL\Desktop\Github C#da kalıtım (inheritance)_SeyitAKPANCAR\C#da kalıtım (inheritance)_SeyitAKPANCAR\Yapıcı Metotlar ve Kalıtım\sunu11\obj\Debug\sunu11.csprojAssemblyReference.cache
+C:\Users\HILAL\Desktop\Github C#da kalıtım (inheritance)_SeyitAKPANCAR\C#da kalıtım (inheritance)_SeyitAKPANCAR\Yapıcı Metotlar ve Kalıtım\sunu11\obj\Debug\sunu11.csproj.CoreCompileInputs.cache
+C:\Users\HILAL\Desktop\Github C#da kalıtım (inheritance)_SeyitAKPANCAR\C#da kalıtım (inheritance)_SeyitAKPANCAR\Yapıcı Metotlar ve Kalıtım\sunu11\obj\Debug\sunu11.exe
+C:\Users\HILAL\Desktop\Github C#da kalıtım (inheritance)_SeyitAKPANCAR\C#da kalıtım (inheritance)_SeyitAKPANCAR\Yapıcı Metotlar ve Kalıtım\sunu11\obj\Debug\sunu11.pdb

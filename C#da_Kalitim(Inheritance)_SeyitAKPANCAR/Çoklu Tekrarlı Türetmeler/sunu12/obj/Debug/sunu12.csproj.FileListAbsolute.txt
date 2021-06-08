@@ -1,0 +1,6 @@
+c:\users\emir\documents\visual studio 2015\Projects\sunu12\sunu12\bin\Debug\sunu12.exe.config
+c:\users\emir\documents\visual studio 2015\Projects\sunu12\sunu12\bin\Debug\sunu12.exe
+c:\users\emir\documents\visual studio 2015\Projects\sunu12\sunu12\bin\Debug\sunu12.pdb
+c:\users\emir\documents\visual studio 2015\Projects\sunu12\sunu12\obj\Debug\sunu12.csprojResolveAssemblyReference.cache
+c:\users\emir\documents\visual studio 2015\Projects\sunu12\sunu12\obj\Debug\sunu12.exe
+c:\users\emir\documents\visual studio 2015\Projects\sunu12\sunu12\obj\Debug\sunu12.pdb
