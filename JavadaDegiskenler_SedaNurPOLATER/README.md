@@ -15,13 +15,15 @@ Değişken Tanımlamanın belirli kuralları vardır;
     9 - Java’da değişken isimleri harf ile, “$”(dolar işareti) ile veya “_” (alt çizgi) ile başlayabilir.
     
 Java'da 3 değişken türü vardır;
-1 - Nesne Değişkenleri (Instance Variables) : Bir sınıftan üretilen tüm nesneler için farklı değer içeren ve statik olmayan veri alanlarıdır. 
-2 - Lokal Değişkenler (Yerel) : Lokal değişken bildirimi sınıf içindeki bir veri alanının bildirimine benzer bir şekilde yapılır.
-3 - Statik Değişken : Statik değişkenin tek bir kopyasını oluşturabilir ve sınıfın tüm örnekleri arasında paylaşabilirsiniz. 
+
+    1 - Nesne Değişkenleri (Instance Variables) : Bir sınıftan üretilen tüm nesneler için farklı değer içeren ve statik olmayan veri alanlarıdır. 
+    2 - Lokal Değişkenler (Yerel) : Lokal değişken bildirimi sınıf içindeki bir veri alanının bildirimine benzer bir şekilde yapılır.
+    3 - Statik Değişken : Statik değişkenin tek bir kopyasını oluşturabilir ve sınıfın tüm örnekleri arasında paylaşabilirsiniz. 
 
 Değişken tanımlamalarımızı veri tiplerimiz olmadan yapamayız veri tipi nedir, neden kullanırız?
-Veri tipleri verilerin bilgisayar üzerinde ki modellemesidir. Veri tipinin özelliği ise bellekte tuttukları alanın sabit olmasıdır.
-Ana bellekte o değişkene yetecek bir yer ayırır ve o veri tipine uygun işlemlerin yapılmasına izin verir.
+
+    Veri tipleri verilerin bilgisayar üzerinde ki modellemesidir. Veri tipinin özelliği ise bellekte tuttukları alanın sabit olmasıdır.
+    Ana bellekte o değişkene yetecek bir yer ayırır ve o veri tipine uygun işlemlerin yapılmasına izin verir.
 
 Java'da Veri Tipleri 3 gruba ayrılır;
 
@@ -54,22 +56,21 @@ Java'da Veri Tipleri 3 gruba ayrılır;
 3 - Null Veri Tipi : Bu tip boş değerleri içerir. 
 
 
-SONUÇ : Java da kullandığımız değişkenler veri tipleri ile beraber kullanılarak kodlamalarımızda, projelerimizde kullandığımız değerleri tutar. 
+    SONUÇ : Java da kullandığımız değişkenler veri tipleri ile beraber kullanılarak kodlamalarımızda, projelerimizde kullandığımız değerleri tutar. 
 
 
    
-   
-   
-Değişkenler Örnek Kodları
 
-Youtube Kanalımız: BMDersleri
+    Değişkenler Örnek Kodları
 
-Bağlantı: https://www.youtube.com/bmdersleri
+    Youtube Kanalımız: BMDersleri
 
-Konu ile ilgili Youtube Video Linki : https://www.youtube.com/watch?v=dcvF0wcH9aA&t=9s
+    Bağlantı: https://www.youtube.com/bmdersleri
 
-Kısa Bağlantı: https://bit.ly/32k9MnJ
+    Konu ile ilgili Youtube Video Linki : https://www.youtube.com/watch?v=dcvF0wcH9aA&t=9s
 
-Github Adresimiz: https://github.com/bmdersleri
+    Kısa Bağlantı: https://bit.ly/32k9MnJ
 
-Hazırlayan: Seda Nur POLATER
+    Github Adresimiz: https://github.com/bmdersleri
+
+    Hazırlayan: Seda Nur POLATER
