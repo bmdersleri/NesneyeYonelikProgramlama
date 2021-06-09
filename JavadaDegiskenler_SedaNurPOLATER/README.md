@@ -3,8 +3,8 @@ Değişken Java programı yürütülürken değeri tutan, veri değerlerini depo
 Bilgisayar programında kullanılan verileri birbirinden ayırmak için verilen adlara değişken denir.
 
 Değişken Tanımlamanın belirli kuralları vardır;
-      1 - Değişken isimleri sayı ile başlayamaz.
-      2 - Her değişkenin mutlaka bir tipi olmalıdır.
+1 - Değişken isimleri sayı ile başlayamaz.
+2 - Her değişkenin mutlaka bir tipi olmalıdır.
 3 - Değişken isimlerinde İngilizce karakterler kullanılmalıdır. 
 4 - Java büyük küçük harfe duyarlı ( Case Sensitive ) bir dildir. 
 5 - Java camelCase olarak adlandırılan kuralda değişken adlarında ilk isim küçük harf ile diğer isimler büyük harfler ile başlar.
@@ -27,20 +27,20 @@ Java'da Veri Tipleri 3 gruba ayrılır;
 1 - İlkel Veri Tipi : Bu tip kendi içinden 4'e ayrılır:
 
     a ) Tam Sayılar : Tam sayılar kendi içinde 4'e ayrılır.
-        * ) Short : -32768 ile 32767 arasında değer depolayabilmektedir. Değer aralığının dışına çıkma ihtimalinin olmadığı basit hesaplamalarda kullanılabilir.
-        ** ) Long : Çok uzun sayıları depolayabilmektedir. Hesaplamalarda, karmaşık işlemlerde kullanabiliriz.
-        *** ) Integer : Tamsayı türündeki değişkenler için kullanılır. Orta uzunluktaki sayıları tutmak için kullanılır. En fazla kullanılan veri tipidir. 
-        **** ) Byte : Byte en küçük değişken türlerinden biridir. -128 ile 127 arasında bir değer alır. Büyük sayıların çıkma ihtimalinin olmadığı hesaplamalarda, karmaşık olmayan işlemlerde kullanılabilir.
+        * Short : -32768 ile 32767 arasında değer depolayabilmektedir. Değer aralığının dışına çıkma ihtimalinin olmadığı basit hesaplamalarda kullanılabilir.
+        ** Long : Çok uzun sayıları depolayabilmektedir. Hesaplamalarda, karmaşık işlemlerde kullanabiliriz.
+        *** Integer : Tamsayı türündeki değişkenler için kullanılır. Orta uzunluktaki sayıları tutmak için kullanılır. En fazla kullanılan veri tipidir. 
+        **** Byte : Byte en küçük değişken türlerinden biridir. -128 ile 127 arasında bir değer alır. Büyük sayıların çıkma ihtimalinin olmadığı hesaplamalarda, karmaşık olmayan işlemlerde kullanılabilir.
         
     b ) Ondalıklı Sayılar : Ondalıklı sayılar kendi içinde 2'ye ayrılır:
-        * ) Float : Float veri tipi 32 bitlik büyüklüğe sahiptir. 1.4×10^-45 ile 3.4×10^38 aralığında bir değer tanımlanabilir. Float veri tanımlarken noktadan sonra değişken değerinin sonuna “f” veya “F” koyulmalıdır. Bu tip virgülden sonra 7 haneye kadar yeterli duyarlılıktadır. (Tek duyarlı — 32 bit)
-        ** ) Double : Double veri tipi 64 bitlik büyüklüğe sahiptir. 4.9×10^-324 ile 1.8×10^308 arasında bir değer tanımlanabilir. Bu tip virgülden sonra 17 haneye kadar yeterli duyarlılıktadır. 
+        * Float : Float veri tipi 32 bitlik büyüklüğe sahiptir. 1.4×10^-45 ile 3.4×10^38 aralığında bir değer tanımlanabilir. Float veri tanımlarken noktadan sonra değişken değerinin sonuna “f” veya “F” koyulmalıdır. Bu tip virgülden sonra 7 haneye kadar yeterli duyarlılıktadır. (Tek duyarlı — 32 bit)
+        ** Double : Double veri tipi 64 bitlik büyüklüğe sahiptir. 4.9×10^-324 ile 1.8×10^308 arasında bir değer tanımlanabilir. Bu tip virgülden sonra 17 haneye kadar yeterli duyarlılıktadır. 
         
     c ) Karakterler :
-        * ) Char : Java da karakterler char veri tipi içinde saklanır. (16 bitlik ) Tek tırnak ile ifade edilir. Stringler de char kümesinin bir araya gelmesi ile oluşur.
+        * Char : Java da karakterler char veri tipi içinde saklanır. (16 bitlik ) Tek tırnak ile ifade edilir. Stringler de char kümesinin bir araya gelmesi ile oluşur.
 
     d ) Mantıksal Operatörler : 
-        * ) Boolean : Java mantıksal değerlerini saklamak için kullanılmaktadır. Boolean veri tipi true ve false olmak üzere iki farklı değer alabilmektedir. Koşul belirtirken veya bir döngüde kullanılabilir. 
+        * Boolean : Java mantıksal değerlerini saklamak için kullanılmaktadır. Boolean veri tipi true ve false olmak üzere iki farklı değer alabilmektedir. Koşul belirtirken veya bir döngüde kullanılabilir. 
 
 2 - Referans Veri Tipi : Bu tip kendi içinde 3'e ayrılır:
 
