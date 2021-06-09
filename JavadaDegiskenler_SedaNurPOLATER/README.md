@@ -73,4 +73,4 @@ Java da kullandığımız değişkenler veri tipleri ile beraber kullanılarak k
 
    Github Adresimiz: https://github.com/bmdersleri
 
-    Hazırlayan: Seda Nur POLATER
+   Hazırlayan: Seda Nur POLATER
