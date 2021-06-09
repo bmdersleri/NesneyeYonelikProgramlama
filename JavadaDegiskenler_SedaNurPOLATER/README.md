@@ -3,16 +3,17 @@ Değişken Java programı yürütülürken değeri tutan, veri değerlerini depo
 Bilgisayar programında kullanılan verileri birbirinden ayırmak için verilen adlara değişken denir.
 
 Değişken Tanımlamanın belirli kuralları vardır;
-1 - Değişken isimleri sayı ile başlayamaz.
-2 - Her değişkenin mutlaka bir tipi olmalıdır.
-3 - Değişken isimlerinde İngilizce karakterler kullanılmalıdır. 
-4 - Java büyük küçük harfe duyarlı ( Case Sensitive ) bir dildir. 
-5 - Java camelCase olarak adlandırılan kuralda değişken adlarında ilk isim küçük harf ile diğer isimler büyük harfler ile başlar.
-6 - Değişken isimlerinde boşluk kullanılamaz.
-7 - Değişkenler değer atanmadan kullanılamaz. 
-8 - Aynı tipteki değişkenler tek satırda tanımlanabilir.
-9 - Java’da değişken isimleri harf ile, “$”(dolar işareti) ile veya “_” (alt çizgi) ile başlayabilir.
-
+    *
+    1 - Değişken isimleri sayı ile başlayamaz.
+    2 - Her değişkenin mutlaka bir tipi olmalıdır.
+    3 - Değişken isimlerinde İngilizce karakterler kullanılmalıdır. 
+    4 - Java büyük küçük harfe duyarlı ( Case Sensitive ) bir dildir. 
+    5 - Java camelCase olarak adlandırılan kuralda değişken adlarında ilk isim küçük harf ile diğer isimler büyük harfler ile başlar.
+    6 - Değişken isimlerinde boşluk kullanılamaz.
+    7 - Değişkenler değer atanmadan kullanılamaz. 
+    8 - Aynı tipteki değişkenler tek satırda tanımlanabilir.
+    9 - Java’da değişken isimleri harf ile, “$”(dolar işareti) ile veya “_” (alt çizgi) ile başlayabilir.
+    
 Java'da 3 değişken türü vardır;
 1 - Nesne Değişkenleri (Instance Variables) : Bir sınıftan üretilen tüm nesneler için farklı değer içeren ve statik olmayan veri alanlarıdır. 
 2 - Lokal Değişkenler (Yerel) : Lokal değişken bildirimi sınıf içindeki bir veri alanının bildirimine benzer bir şekilde yapılır.
