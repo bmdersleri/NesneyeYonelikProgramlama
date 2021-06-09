@@ -56,12 +56,13 @@ Java'da Veri Tipleri 3 gruba ayrılır;
 3 - Null Veri Tipi : Bu tip boş değerleri içerir. 
 
 
-# SONUÇ : Java da kullandığımız değişkenler veri tipleri ile beraber kullanılarak kodlamalarımızda, projelerimizde kullandığımız değerleri tutar. 
+# SONUÇ : 
+Java da kullandığımız değişkenler veri tipleri ile beraber kullanılarak kodlamalarımızda, projelerimizde kullandığımız değerleri tutar. 
 
 
    
 
-   Değişkenler Örnek Kodları
+    Değişkenler Örnek Kodları
 
     Youtube Kanalımız: BMDersleri
 
