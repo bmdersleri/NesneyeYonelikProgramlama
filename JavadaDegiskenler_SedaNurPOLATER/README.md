@@ -61,7 +61,7 @@ Java'da Veri Tipleri 3 gruba ayrılır;
 
    
 
-    Değişkenler Örnek Kodları
+   Değişkenler Örnek Kodları
 
     Youtube Kanalımız: BMDersleri
 
