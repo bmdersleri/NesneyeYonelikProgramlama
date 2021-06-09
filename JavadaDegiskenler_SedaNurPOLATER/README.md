@@ -3,8 +3,8 @@ Değişken Java programı yürütülürken değeri tutan, veri değerlerini depo
 Bilgisayar programında kullanılan verileri birbirinden ayırmak için verilen adlara değişken denir.
 
 Değişken Tanımlamanın belirli kuralları vardır;
-1 - Değişken isimleri sayı ile başlayamaz.
-2 - Her değişkenin mutlaka bir tipi olmalıdır.
+      1 - Değişken isimleri sayı ile başlayamaz.
+      2 - Her değişkenin mutlaka bir tipi olmalıdır.
 3 - Değişken isimlerinde İngilizce karakterler kullanılmalıdır. 
 4 - Java büyük küçük harfe duyarlı ( Case Sensitive ) bir dildir. 
 5 - Java camelCase olarak adlandırılan kuralda değişken adlarında ilk isim küçük harf ile diğer isimler büyük harfler ile başlar.
