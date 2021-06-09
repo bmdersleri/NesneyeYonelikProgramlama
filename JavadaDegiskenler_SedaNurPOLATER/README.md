@@ -61,8 +61,7 @@ Java da kullandığımız değişkenler veri tipleri ile beraber kullanılarak k
 
 
    
-
-   Değişkenler Örnek Kodları
+# 
 
    Youtube Kanalımız: BMDersleri
 
