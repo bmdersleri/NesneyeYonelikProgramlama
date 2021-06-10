@@ -1,0 +1,13 @@
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\bin\Debug\netcoreapp3.1\CSharpPolimorfizm.exe
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\bin\Debug\netcoreapp3.1\CSharpPolimorfizm.deps.json
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\bin\Debug\netcoreapp3.1\CSharpPolimorfizm.runtimeconfig.json
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\bin\Debug\netcoreapp3.1\CSharpPolimorfizm.runtimeconfig.dev.json
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\bin\Debug\netcoreapp3.1\CSharpPolimorfizm.dll
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\bin\Debug\netcoreapp3.1\CSharpPolimorfizm.pdb
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\obj\Debug\netcoreapp3.1\CSharpPolimorfizm.csprojAssemblyReference.cache
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\obj\Debug\netcoreapp3.1\CSharpPolimorfizm.AssemblyInfoInputs.cache
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\obj\Debug\netcoreapp3.1\CSharpPolimorfizm.AssemblyInfo.cs
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\obj\Debug\netcoreapp3.1\CSharpPolimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\obj\Debug\netcoreapp3.1\CSharpPolimorfizm.dll
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\obj\Debug\netcoreapp3.1\CSharpPolimorfizm.pdb
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\CSharpPolimorfizm\obj\Debug\netcoreapp3.1\CSharpPolimorfizm.genruntimeconfig.cache
