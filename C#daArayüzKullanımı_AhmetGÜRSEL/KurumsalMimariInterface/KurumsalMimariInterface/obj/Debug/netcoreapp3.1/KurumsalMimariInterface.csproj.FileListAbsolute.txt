@@ -1,0 +1,26 @@
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.exe
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.deps.json
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.runtimeconfig.json
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.runtimeconfig.dev.json
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.dll
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.pdb
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.csprojAssemblyReference.cache
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.AssemblyInfoInputs.cache
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.AssemblyInfo.cs
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.csproj.CoreCompileInputs.cache
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.dll
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.pdb
+C:\Users\ahmt_\Desktop\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.genruntimeconfig.cache
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.exe
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.deps.json
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.runtimeconfig.json
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.runtimeconfig.dev.json
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.dll
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\bin\Debug\netcoreapp3.1\KurumsalMimariInterface.pdb
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.csprojAssemblyReference.cache
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.AssemblyInfoInputs.cache
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.AssemblyInfo.cs
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.csproj.CoreCompileInputs.cache
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.dll
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.pdb
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\KurumsalMimariInterface\KurumsalMimariInterface\obj\Debug\netcoreapp3.1\KurumsalMimariInterface.genruntimeconfig.cache
