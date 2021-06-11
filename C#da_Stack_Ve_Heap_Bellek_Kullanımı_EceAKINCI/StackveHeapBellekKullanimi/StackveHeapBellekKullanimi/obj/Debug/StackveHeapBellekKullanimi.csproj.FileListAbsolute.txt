@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\StackveHeapBellekKullanimi\StackveHeapBellekKullanimi\bin\Debug\StackveHeapBellekKullanimi.exe.config
+C:\Users\Lenovo\source\repos\StackveHeapBellekKullanimi\StackveHeapBellekKullanimi\bin\Debug\StackveHeapBellekKullanimi.exe
+C:\Users\Lenovo\source\repos\StackveHeapBellekKullanimi\StackveHeapBellekKullanimi\bin\Debug\StackveHeapBellekKullanimi.pdb
+C:\Users\Lenovo\source\repos\StackveHeapBellekKullanimi\StackveHeapBellekKullanimi\obj\Debug\StackveHeapBellekKullanimi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\StackveHeapBellekKullanimi\StackveHeapBellekKullanimi\obj\Debug\StackveHeapBellekKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\StackveHeapBellekKullanimi\StackveHeapBellekKullanimi\obj\Debug\StackveHeapBellekKullanimi.exe
+C:\Users\Lenovo\source\repos\StackveHeapBellekKullanimi\StackveHeapBellekKullanimi\obj\Debug\StackveHeapBellekKullanimi.pdb

@@ -1,0 +1,12 @@
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\bin\Debug\netcoreapp3.1\StaticPolimorfizm.exe
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\bin\Debug\netcoreapp3.1\StaticPolimorfizm.deps.json
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\bin\Debug\netcoreapp3.1\StaticPolimorfizm.runtimeconfig.json
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\bin\Debug\netcoreapp3.1\StaticPolimorfizm.runtimeconfig.dev.json
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\bin\Debug\netcoreapp3.1\StaticPolimorfizm.dll
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\bin\Debug\netcoreapp3.1\StaticPolimorfizm.pdb
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\obj\Debug\netcoreapp3.1\StaticPolimorfizm.AssemblyInfoInputs.cache
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\obj\Debug\netcoreapp3.1\StaticPolimorfizm.AssemblyInfo.cs
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\obj\Debug\netcoreapp3.1\StaticPolimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\obj\Debug\netcoreapp3.1\StaticPolimorfizm.dll
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\obj\Debug\netcoreapp3.1\StaticPolimorfizm.pdb
+C:\Users\yesar\Desktop\Bilgisayar Mühendisliği\2. Sınıf Bahar\Nesneye Dayalı Programlama\Final\StaticPolimorfizm\obj\Debug\netcoreapp3.1\StaticPolimorfizm.genruntimeconfig.cache

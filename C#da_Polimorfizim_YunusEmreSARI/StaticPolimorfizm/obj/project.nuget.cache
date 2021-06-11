@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5NTfx+/1gPF0NZGkJSGRmFJfMvS7xKRNAs3mHqaKGrfmlrUvVoo3MUIB5O6iRaJzpxHn+wkCEoaNjkA0PjTQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yesar\\Desktop\\Bilgisayar Mühendisliği\\2. Sınıf Bahar\\Nesneye Dayalı Programlama\\Final\\StaticPolimorfizm\\StaticPolimorfizm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yesar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
