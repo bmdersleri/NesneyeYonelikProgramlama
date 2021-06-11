@@ -1,0 +1,26 @@
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\ahmt_\Desktop\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+D:\Maküye Hazırlık\2. Sınıf\Nesneye Yönelik Programlama\Vize\Interface\Interfaces\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
