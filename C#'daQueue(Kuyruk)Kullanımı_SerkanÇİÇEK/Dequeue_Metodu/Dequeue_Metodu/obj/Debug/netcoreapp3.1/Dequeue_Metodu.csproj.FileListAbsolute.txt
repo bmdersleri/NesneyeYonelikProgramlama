@@ -1,0 +1,12 @@
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\bin\Debug\netcoreapp3.1\Dequeue_Metodu.exe
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\bin\Debug\netcoreapp3.1\Dequeue_Metodu.deps.json
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\bin\Debug\netcoreapp3.1\Dequeue_Metodu.runtimeconfig.json
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\bin\Debug\netcoreapp3.1\Dequeue_Metodu.runtimeconfig.dev.json
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\bin\Debug\netcoreapp3.1\Dequeue_Metodu.dll
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\bin\Debug\netcoreapp3.1\Dequeue_Metodu.pdb
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\obj\Debug\netcoreapp3.1\Dequeue_Metodu.AssemblyInfoInputs.cache
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\obj\Debug\netcoreapp3.1\Dequeue_Metodu.AssemblyInfo.cs
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\obj\Debug\netcoreapp3.1\Dequeue_Metodu.csproj.CoreCompileInputs.cache
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\obj\Debug\netcoreapp3.1\Dequeue_Metodu.dll
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\obj\Debug\netcoreapp3.1\Dequeue_Metodu.pdb
+C:\Users\srknn\Desktop\Dequeue_Metodu\Dequeue_Metodu\obj\Debug\netcoreapp3.1\Dequeue_Metodu.genruntimeconfig.cache

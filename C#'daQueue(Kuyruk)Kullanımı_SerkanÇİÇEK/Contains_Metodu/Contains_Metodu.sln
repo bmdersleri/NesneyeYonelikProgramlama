@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contains_Metodu", "Contains_Metodu\Contains_Metodu.csproj", "{D7EFE47E-ADBD-42AA-98FF-4B08A0BFD117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7EFE47E-ADBD-42AA-98FF-4B08A0BFD117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7EFE47E-ADBD-42AA-98FF-4B08A0BFD117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7EFE47E-ADBD-42AA-98FF-4B08A0BFD117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7EFE47E-ADBD-42AA-98FF-4B08A0BFD117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC27EEBB-82BD-4D5B-BB8C-22D88A6E3502}
+	EndGlobalSection
+EndGlobal

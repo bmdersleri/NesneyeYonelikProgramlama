@@ -1,0 +1,13 @@
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\obj\Debug\netcoreapp3.1\Banka_Uygulamasi.csprojAssemblyReference.cache
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\obj\Debug\netcoreapp3.1\Banka_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\obj\Debug\netcoreapp3.1\Banka_Uygulamasi.AssemblyInfo.cs
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\obj\Debug\netcoreapp3.1\Banka_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\bin\Debug\netcoreapp3.1\Banka_Uygulamasi.exe
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\bin\Debug\netcoreapp3.1\Banka_Uygulamasi.deps.json
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\bin\Debug\netcoreapp3.1\Banka_Uygulamasi.runtimeconfig.json
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\bin\Debug\netcoreapp3.1\Banka_Uygulamasi.runtimeconfig.dev.json
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\bin\Debug\netcoreapp3.1\Banka_Uygulamasi.dll
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\bin\Debug\netcoreapp3.1\Banka_Uygulamasi.pdb
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\obj\Debug\netcoreapp3.1\Banka_Uygulamasi.dll
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\obj\Debug\netcoreapp3.1\Banka_Uygulamasi.pdb
+C:\Users\srknn\Desktop\Banka_Uygulamasi\Banka_Uygulamasi\obj\Debug\netcoreapp3.1\Banka_Uygulamasi.genruntimeconfig.cache

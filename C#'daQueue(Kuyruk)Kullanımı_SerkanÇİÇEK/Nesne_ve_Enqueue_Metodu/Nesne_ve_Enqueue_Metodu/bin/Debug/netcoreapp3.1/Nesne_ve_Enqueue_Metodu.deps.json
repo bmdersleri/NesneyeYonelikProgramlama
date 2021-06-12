@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Nesne_ve_Enqueue_Metodu/1.0.0": {
+        "runtime": {
+          "Nesne_ve_Enqueue_Metodu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nesne_ve_Enqueue_Metodu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

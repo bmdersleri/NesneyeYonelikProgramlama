@@ -1,0 +1,12 @@
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\bin\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.exe
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\bin\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.deps.json
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\bin\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.runtimeconfig.json
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\bin\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.runtimeconfig.dev.json
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\bin\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.dll
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\bin\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.pdb
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\obj\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.AssemblyInfoInputs.cache
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\obj\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.AssemblyInfo.cs
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\obj\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.csproj.CoreCompileInputs.cache
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\obj\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.dll
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\obj\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.pdb
+C:\Users\srknn\Desktop\Nesne_ve_Enqueue_Metodu\Nesne_ve_Enqueue_Metodu\obj\Debug\netcoreapp3.1\Nesne_ve_Enqueue_Metodu.genruntimeconfig.cache
