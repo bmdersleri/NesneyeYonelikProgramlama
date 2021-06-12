@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GINL4UPKFIaIG/5Evn7aCF37094KIFnyAil4NNKiOVrorS1JCZSIktxmneNX0xO4asLbypfzIGW9JzcgYHBaAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yesar\\Desktop\\Mustafa\\CSharpdaSoyutlama2\\CSharpdaSoyutlama2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yesar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
