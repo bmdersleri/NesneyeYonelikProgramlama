@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Dequeue_Metodu
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Queue<string> bilet = new Queue<string>();
+
+            bilet.Enqueue("Kerem ÖZTÜRK");
+            bilet.Enqueue("Barış ÇİÇEK");
+            bilet.Enqueue("Cansu KAYA");
+
+            string silinen_eleman = bilet.Dequeue();     //Dequeue Metodu
+            Console.WriteLine("Kuyruktan Silinen Kişi : " + silinen_eleman);
+
+        }
+    }
+}

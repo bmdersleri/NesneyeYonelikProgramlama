@@ -1,0 +1,12 @@
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\bin\Debug\netcoreapp3.1\Contains_Metodu.exe
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\bin\Debug\netcoreapp3.1\Contains_Metodu.deps.json
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\bin\Debug\netcoreapp3.1\Contains_Metodu.runtimeconfig.json
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\bin\Debug\netcoreapp3.1\Contains_Metodu.runtimeconfig.dev.json
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\bin\Debug\netcoreapp3.1\Contains_Metodu.dll
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\bin\Debug\netcoreapp3.1\Contains_Metodu.pdb
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\obj\Debug\netcoreapp3.1\Contains_Metodu.AssemblyInfoInputs.cache
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\obj\Debug\netcoreapp3.1\Contains_Metodu.AssemblyInfo.cs
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\obj\Debug\netcoreapp3.1\Contains_Metodu.csproj.CoreCompileInputs.cache
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\obj\Debug\netcoreapp3.1\Contains_Metodu.dll
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\obj\Debug\netcoreapp3.1\Contains_Metodu.pdb
+C:\Users\srknn\Desktop\Contains_Metodu\Contains_Metodu\obj\Debug\netcoreapp3.1\Contains_Metodu.genruntimeconfig.cache
