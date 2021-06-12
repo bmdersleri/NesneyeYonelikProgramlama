@@ -7,6 +7,8 @@ Github Adresimiz : https://github.com/bmdersleri
 
 Konu Anlatım Videosu : https://youtu.be/O3fwyqlqRZQ
 
+Konu ile ilgili Youtube Video Linki : https://youtu.be/O3fwyqlqRZQ
+
 Hazırlayan : Furkan AKKULAK
 
 
