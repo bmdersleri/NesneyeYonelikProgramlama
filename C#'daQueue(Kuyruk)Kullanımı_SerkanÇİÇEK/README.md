@@ -29,11 +29,13 @@ Kuyrukta yer alan elemanların kopyasını içeren bir dizi döndürür.
 ### 6 - Clear() Metodu ve Count Özelliği
 Clear() Metodu; Kuyruğu temizlemektedir. Count Özelliği; Kuyruk içerisinde yer alan elemanların sayısını döndürmektedir.
 
+# 
+
 Youtube Kanalımız: BMDersleri
 
 Bağlantı: <https://www.youtube.com/channel/UCIdYgV-XFjv9q0IHtzUTtQw>
 
-Konu ile ilgili Youtube Video Linki : <https://youtu.be/r5-3P6Twlhw>
+Konu ile ilgili Youtube Video Linki : https://youtu.be/uC7aXM1xXkY
 
 Kısa Bağlantı: <https://bit.ly/32k9MnJ>
 
