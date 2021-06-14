@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\test"
+		},
+		{
+			"path": "..\\Desktop\\website"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "website"
+	}
+}
