@@ -29,49 +29,49 @@ Bizleri eski takvim işlemlerinden kurtaran geliştirilmiş tarih zaman api'sini
 Tarih ve saati kullanırken dikkat edilmesi gereken önemli bir detay bölgesel zaman dilimidir. Eğer bir zamanı alırken bölge belirtmez isek istenmeyen sonuçlar elde edebiliriz.
 
 # Java’da güncel tarih ve zamanı alabileceğimiz sınıflar.
-java.util.Calendar
-java.util.Date
-java.sql.Date
-java.time.LocalDate
-java.time.LocalTime
-java.time.LocalDateTime
-java.time.Clock
-java.time.format.DateTimeFormatter
-java.text.SimpleDateFormat
+    java.util.Calendar
+    java.util.Date
+    java.sql.Date
+    java.time.LocalDate
+    java.time.LocalTime
+    java.time.LocalDateTime
+    java.time.Clock
+    java.time.format.DateTimeFormatter
+    java.text.SimpleDateFormat
 
 # Bir Calendar objesi oluşturduğumuzda kullanabileceğimiz metotlar;
-add(int field, int amount) : Takvimin kurallarına göre, belirtilen takvim alanına belirtilen süreyi ekler veya çıkarır.
-clear(int field) : Verilen takvim alanı değerini ve bu tanımlanmamış öğenin zaman değerini (milisaniye uzaklığı ) ayarlar.
-clone() :Bu nesnenin bir kopyasını oluşturur ve döndürür.
-compareTo(Calendar anotherCalendar) : Zaman değerleri (milisaniye cinsinden uzaklıklar karşılaştırır) 
-complete() : Takvim alanlarındaki ayarlanmamış alanları doldurur.
-get(int field) : Verilen takvim alanının değerini döndürür.
-getFirstDayOfWeek() : Haftanın ilk gününü alır; örneğin SUNDAY ABD'de, MONDAY Fransa'da.
-getInstance() : Varsayılan saat dilimini ve yerel ayarı kullanarak bir takvim alır.
-getTime() : Milisaniye cinsinden zaman değerini döndürür.
-getTimeZone() : Saat dilimini alır.
-getWeeksInWeekYear() : Temsil edilen hafta, yıl içindeki hafta sayısını döndürür.
-getWeekYear() : Bununla temsil edilen hafta yılını döndürür.
-set(int field, int value) : Verilen takvim alanını gönderilen değere ayarlar.
-setTime(Date date) : Takvimin saatini gönderilen değerle ayarlar.
-toString() : Bu takvimin dize gösterimini döndür.
+    add(int field, int amount) : Takvimin kurallarına göre, belirtilen takvim alanına belirtilen süreyi ekler veya çıkarır.
+    clear(int field) : Verilen takvim alanı değerini ve bu tanımlanmamış öğenin zaman değerini (milisaniye uzaklığı ) ayarlar.
+    clone() :Bu nesnenin bir kopyasını oluşturur ve döndürür.
+    compareTo(Calendar anotherCalendar) : Zaman değerleri (milisaniye cinsinden uzaklıklar karşılaştırır) 
+    complete() : Takvim alanlarındaki ayarlanmamış alanları doldurur.
+    get(int field) : Verilen takvim alanının değerini döndürür.
+    getFirstDayOfWeek() : Haftanın ilk gününü alır; örneğin SUNDAY ABD'de, MONDAY Fransa'da.
+    getInstance() : Varsayılan saat dilimini ve yerel ayarı kullanarak bir takvim alır.
+    getTime() : Milisaniye cinsinden zaman değerini döndürür.
+    getTimeZone() : Saat dilimini alır.
+    getWeeksInWeekYear() : Temsil edilen hafta, yıl içindeki hafta sayısını döndürür.
+    getWeekYear() : Bununla temsil edilen hafta yılını döndürür.
+    set(int field, int value) : Verilen takvim alanını gönderilen değere ayarlar.
+    setTime(Date date) : Takvimin saatini gönderilen değerle ayarlar.
+    toString() : Bu takvimin dize gösterimini döndür.
 
 # Java Time Sınıfları
-Clock : Bir saat dilimi kullanarak mevcut an, tarih ve saate erişim sağlar.
-Duraction : ‘ 34, 5 saniye ’ gibi zamana dayalı bir süre.
-Instant	: Zaman çizgisinde anlık bir nokta.
-LocalDate : ISO-8601 takvim sisteminde saat dilimi olmayan bir tarih, örneğin 2007-12-03.
-LocalDateTime : ISO-8601 takvim sisteminde saat dilimi olmayan bir tarih-saat, örneğin 2007-12-03T10:15:30.
-LocaleDateTime : ISO-8601 takvim sisteminde saat dilimi olmayan bir saat, örneğin 10:15:30.
-ZoneId	: Europe/Paris Gibi bir saat dilimi kimliği.
-ZoneOffset : Greenwich / UTC'den bir saat dilimi uzaklığı, örneğin ‘ +02:00 ’.
-MonthDay : ISO-8601 takvim sisteminde bir ay-gün gibi 12-03.
-OffsetDateTime :ISO-8601 takvim sisteminde UTC / Greenwich'ten fark olan bir tarih-saat, örneğin 2007-12-03T10:15:30+01:00.
-OffsetTime : ISO-8601 takvim sisteminde UTC / Greenwich'ten fark olan bir saat, örneğin 10:15:30+01:00.
-Period : ISO-8601 takvim sisteminde '2 yıl, 3 ay ve 4 gün' gibi tarihe dayalı bir süre.
-Year : ISO-8601 takvim sisteminde bir yıl gibi 2007.
-YearMonth : ISO-8601 takvim sisteminde bir yıl-ay gibi 2007-12.
-ZonedDateTime : ISO-8601 takvim sisteminde saat dilimine sahip bir tarih-saat, örneğin 2007-12-03T10:15:30+01:00 Europe/Paris.
+    Clock : Bir saat dilimi kullanarak mevcut an, tarih ve saate erişim sağlar.
+    Duraction : ‘ 34, 5 saniye ’ gibi zamana dayalı bir süre.
+    Instant	: Zaman çizgisinde anlık bir nokta.
+    LocalDate : ISO-8601 takvim sisteminde saat dilimi olmayan bir tarih, örneğin 2007-12-03.
+    LocalDateTime : ISO-8601 takvim sisteminde saat dilimi olmayan bir tarih-saat, örneğin 2007-12-03T10:15:30.
+    LocaleDateTime : ISO-8601 takvim sisteminde saat dilimi olmayan bir saat, örneğin 10:15:30.
+    ZoneId	: Europe/Paris Gibi bir saat dilimi kimliği.
+    ZoneOffset : Greenwich / UTC'den bir saat dilimi uzaklığı, örneğin ‘ +02:00 ’.
+    MonthDay : ISO-8601 takvim sisteminde bir ay-gün gibi 12-03.
+    OffsetDateTime :ISO-8601 takvim sisteminde UTC / Greenwich'ten fark olan bir tarih-saat, örneğin 2007-12-03T10:15:30+01:00.
+    OffsetTime : ISO-8601 takvim sisteminde UTC / Greenwich'ten fark olan bir saat, örneğin 10:15:30+01:00.
+    Period : ISO-8601 takvim sisteminde '2 yıl, 3 ay ve 4 gün' gibi tarihe dayalı bir süre.
+    Year : ISO-8601 takvim sisteminde bir yıl gibi 2007.
+    YearMonth : ISO-8601 takvim sisteminde bir yıl-ay gibi 2007-12.
+    ZonedDateTime : ISO-8601 takvim sisteminde saat dilimine sahip bir tarih-saat, örneğin 2007-12-03T10:15:30+01:00 Europe/Paris.
 
 Not : ISO 8601, tarih ve saatle ilgili verilerin değişimini kapsayan ISO standardı. 1988'de Uluslararası Standardizasyon Örgütü tarafından yayınlandı. Bu standardın amacı tarihlerin ve sayısalların temsilini yanlış yorumlamaktan kaçınmak için açık ve iyi tanımlanmış bir yöntem sağlamaktır.
 # Format Belirleme SimpleDateFormat
