@@ -75,27 +75,27 @@ Tarih ve saati kullanırken dikkat edilmesi gereken önemli bir detay bölgesel 
 
 Not : ISO 8601, tarih ve saatle ilgili verilerin değişimini kapsayan ISO standardı. 1988'de Uluslararası Standardizasyon Örgütü tarafından yayınlandı. Bu standardın amacı tarihlerin ve sayısalların temsilini yanlış yorumlamaktan kaçınmak için açık ve iyi tanımlanmış bir yöntem sağlamaktır.
 # Format Belirleme SimpleDateFormat
-Harf Tarih veya Saat Bileşeni	Sunum	Örnekler
-G	dönem göstergesi	Metin	AD
-y	Yıl	Yıl	1996; 96
-Y	Hafta yılı	Yıl	2009; 09
-M	Yıl içinde ay (bağlama duyarlı)	Ay	July; Jul;07
-L	Yıl içinde ay (bağımsız form)	Ay	July; Jul;07
-w	yıl içinde hafta	Numara	27
-W	ay içinde hafta	Numara	2
-D	Yıl içinde gün	Numara	189
-d	ay içinde gün	Numara	10
-F	Ay içinde haftanın günü	Numara	2
-E	Haftada gün adı	Metin	Tuesday; Tue
-u	Haftanın gün sayısı (1 = Pazartesi, ..., 7 = Pazar)	Numara	1
-a	am/pm işaretçisi	Metin	PM
-H	Gün içinde saat (0-23)	Numara	0
-k	Günde saat (1-24)	Numara	24
-K	am/pm cinsinden saat (0-11)	Numara	0
-h	am/pm cinsinden saat (1-12)	Numara	12
-m	saat cinsinden dakika	Numara	30
-s	Dakikada ikinci	Numara	55
-S	Milisaniye	Numara	978
-z	Saat dilimi	Genel saat dilimi	Pacific Standard Time; PST;GMT-08:00
-Z	Saat dilimi	RFC 822 saat dilimi	-0800
-X	Saat dilimi	ISO 8601 saat dilimi	-08; -0800; -08:00
+    Harf Tarih veya Saat Bileşeni	Sunum	Örnekler
+    G	dönem göstergesi	Metin	AD
+    y	Yıl	Yıl	1996; 96
+    Y	Hafta yılı	Yıl	2009; 09
+    M	Yıl içinde ay (bağlama duyarlı)	Ay	July; Jul;07
+    L	Yıl içinde ay (bağımsız form)	Ay	July; Jul;07
+    w	yıl içinde hafta	Numara	27
+    W	ay içinde hafta	Numara	2
+    D	Yıl içinde gün	Numara	189
+    d	ay içinde gün	Numara	10
+    F	Ay içinde haftanın günü	Numara	2
+    E	Haftada gün adı	Metin	Tuesday; Tue
+    u	Haftanın gün sayısı (1 = Pazartesi, ..., 7 = Pazar)	Numara	1
+    a	am/pm işaretçisi	Metin	PM
+    H	Gün içinde saat (0-23)	Numara	0
+    k	Günde saat (1-24)	Numara	24
+    K	am/pm cinsinden saat (0-11)	Numara	0
+    h	am/pm cinsinden saat (1-12)	Numara	12
+    m	saat cinsinden dakika	Numara	30
+    s	Dakikada ikinci	Numara	55
+    S	Milisaniye	Numara	978
+    z	Saat dilimi	Genel saat dilimi	Pacific Standard Time; PST;GMT-08:00
+    Z	Saat dilimi	RFC 822 saat dilimi	-0800
+    X	Saat dilimi	ISO 8601 saat dilimi	-08; -0800; -08:00
