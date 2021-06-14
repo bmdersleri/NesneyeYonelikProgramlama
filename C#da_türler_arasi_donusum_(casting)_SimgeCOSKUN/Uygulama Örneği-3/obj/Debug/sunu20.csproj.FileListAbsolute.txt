@@ -1,0 +1,7 @@
+C:\Users\orhun\source\repos\sunu20\bin\Debug\sunu20.exe.config
+C:\Users\orhun\source\repos\sunu20\bin\Debug\sunu20.exe
+C:\Users\orhun\source\repos\sunu20\bin\Debug\sunu20.pdb
+C:\Users\orhun\source\repos\sunu20\obj\Debug\sunu20.csprojAssemblyReference.cache
+C:\Users\orhun\source\repos\sunu20\obj\Debug\sunu20.csproj.CoreCompileInputs.cache
+C:\Users\orhun\source\repos\sunu20\obj\Debug\sunu20.exe
+C:\Users\orhun\source\repos\sunu20\obj\Debug\sunu20.pdb

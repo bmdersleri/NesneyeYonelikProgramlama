@@ -1,0 +1,14 @@
+C:\Users\orhun\source\repos\sunu13\bin\Debug\sunu13.exe.config
+C:\Users\orhun\source\repos\sunu13\bin\Debug\sunu13.exe
+C:\Users\orhun\source\repos\sunu13\bin\Debug\sunu13.pdb
+C:\Users\orhun\source\repos\sunu13\obj\Debug\sunu13.csprojAssemblyReference.cache
+C:\Users\orhun\source\repos\sunu13\obj\Debug\sunu13.csproj.CoreCompileInputs.cache
+C:\Users\orhun\source\repos\sunu13\obj\Debug\sunu13.exe
+C:\Users\orhun\source\repos\sunu13\obj\Debug\sunu13.pdb
+C:\Users\orhun\OneDrive\Desktop\final 2.dönem\nesneye dayalı\Github_C#da_türdönüşümü_casting_SimgeCOŞKUN\C#da türler arası dönüşüm (casting)_SimgeCOŞKUN\String Verileri Sayısala Dönüştürme\bin\Debug\sunu13.exe.config
+C:\Users\orhun\OneDrive\Desktop\final 2.dönem\nesneye dayalı\Github_C#da_türdönüşümü_casting_SimgeCOŞKUN\C#da türler arası dönüşüm (casting)_SimgeCOŞKUN\String Verileri Sayısala Dönüştürme\bin\Debug\sunu13.exe
+C:\Users\orhun\OneDrive\Desktop\final 2.dönem\nesneye dayalı\Github_C#da_türdönüşümü_casting_SimgeCOŞKUN\C#da türler arası dönüşüm (casting)_SimgeCOŞKUN\String Verileri Sayısala Dönüştürme\bin\Debug\sunu13.pdb
+C:\Users\orhun\OneDrive\Desktop\final 2.dönem\nesneye dayalı\Github_C#da_türdönüşümü_casting_SimgeCOŞKUN\C#da türler arası dönüşüm (casting)_SimgeCOŞKUN\String Verileri Sayısala Dönüştürme\obj\Debug\sunu13.csprojAssemblyReference.cache
+C:\Users\orhun\OneDrive\Desktop\final 2.dönem\nesneye dayalı\Github_C#da_türdönüşümü_casting_SimgeCOŞKUN\C#da türler arası dönüşüm (casting)_SimgeCOŞKUN\String Verileri Sayısala Dönüştürme\obj\Debug\sunu13.csproj.CoreCompileInputs.cache
+C:\Users\orhun\OneDrive\Desktop\final 2.dönem\nesneye dayalı\Github_C#da_türdönüşümü_casting_SimgeCOŞKUN\C#da türler arası dönüşüm (casting)_SimgeCOŞKUN\String Verileri Sayısala Dönüştürme\obj\Debug\sunu13.exe
+C:\Users\orhun\OneDrive\Desktop\final 2.dönem\nesneye dayalı\Github_C#da_türdönüşümü_casting_SimgeCOŞKUN\C#da türler arası dönüşüm (casting)_SimgeCOŞKUN\String Verileri Sayısala Dönüştürme\obj\Debug\sunu13.pdb
