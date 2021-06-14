@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\hillsifreleme\hillsifreleme\bin\Debug\hillsifreleme.exe.config
+C:\Users\User\source\repos\hillsifreleme\hillsifreleme\bin\Debug\hillsifreleme.exe
+C:\Users\User\source\repos\hillsifreleme\hillsifreleme\bin\Debug\hillsifreleme.pdb
+C:\Users\User\source\repos\hillsifreleme\hillsifreleme\obj\Debug\hillsifreleme.csprojAssemblyReference.cache
+C:\Users\User\source\repos\hillsifreleme\hillsifreleme\obj\Debug\hillsifreleme.exe
+C:\Users\User\source\repos\hillsifreleme\hillsifreleme\obj\Debug\hillsifreleme.pdb
+C:\Users\User\source\repos\hillsifreleme\hillsifreleme\obj\Debug\hillsifreleme.csproj.CoreCompileInputs.cache

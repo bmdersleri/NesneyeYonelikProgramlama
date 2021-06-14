@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\MatrisTersveDüzKosegenToplam\MatrisTersveDüzKosegenToplam\bin\Debug\MatrisTersveDüzKosegenToplam.exe.config
+C:\Users\User\source\repos\MatrisTersveDüzKosegenToplam\MatrisTersveDüzKosegenToplam\bin\Debug\MatrisTersveDüzKosegenToplam.exe
+C:\Users\User\source\repos\MatrisTersveDüzKosegenToplam\MatrisTersveDüzKosegenToplam\bin\Debug\MatrisTersveDüzKosegenToplam.pdb
+C:\Users\User\source\repos\MatrisTersveDüzKosegenToplam\MatrisTersveDüzKosegenToplam\obj\Debug\MatrisTersveDüzKosegenToplam.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MatrisTersveDüzKosegenToplam\MatrisTersveDüzKosegenToplam\obj\Debug\MatrisTersveDüzKosegenToplam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MatrisTersveDüzKosegenToplam\MatrisTersveDüzKosegenToplam\obj\Debug\MatrisTersveDüzKosegenToplam.exe
+C:\Users\User\source\repos\MatrisTersveDüzKosegenToplam\MatrisTersveDüzKosegenToplam\obj\Debug\MatrisTersveDüzKosegenToplam.pdb
