@@ -13,7 +13,7 @@ Github Adresimiz: https://github.com/bmdersleri
 
 Hazırlayan: Hüseyin Said ZEYREK
 
-
+#
 Paket(Package) Kavramı
 Nesnelerin taşınabilirlik ve verimli erişim için tanımlı bir fiziksel biçimin tek bir varlığında düzenlemek amacıyla kullanılabilen soyut bir sınıftır. 
 
