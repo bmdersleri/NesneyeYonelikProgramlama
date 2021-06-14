@@ -1,0 +1,7 @@
+C:\Users\Narus\source\repos\Sunu10\Sunu10\bin\Debug\Sunu10.exe.config
+C:\Users\Narus\source\repos\Sunu10\Sunu10\bin\Debug\Sunu10.exe
+C:\Users\Narus\source\repos\Sunu10\Sunu10\bin\Debug\Sunu10.pdb
+C:\Users\Narus\source\repos\Sunu10\Sunu10\obj\Debug\Sunu10.csprojAssemblyReference.cache
+C:\Users\Narus\source\repos\Sunu10\Sunu10\obj\Debug\Sunu10.csproj.CoreCompileInputs.cache
+C:\Users\Narus\source\repos\Sunu10\Sunu10\obj\Debug\Sunu10.exe
+C:\Users\Narus\source\repos\Sunu10\Sunu10\obj\Debug\Sunu10.pdb

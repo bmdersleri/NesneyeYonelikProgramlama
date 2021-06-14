@@ -1,0 +1,7 @@
+C:\Users\Narus\Desktop\C# da Thread ve Eş Zamanlı İşlemler Emrecan DEDEOĞLU\Sleep metodu\Sunu9\bin\Debug\Sunu9.exe.config
+C:\Users\Narus\Desktop\C# da Thread ve Eş Zamanlı İşlemler Emrecan DEDEOĞLU\Sleep metodu\Sunu9\bin\Debug\Sunu9.exe
+C:\Users\Narus\Desktop\C# da Thread ve Eş Zamanlı İşlemler Emrecan DEDEOĞLU\Sleep metodu\Sunu9\bin\Debug\Sunu9.pdb
+C:\Users\Narus\Desktop\C# da Thread ve Eş Zamanlı İşlemler Emrecan DEDEOĞLU\Sleep metodu\Sunu9\obj\Debug\Sunu9.csprojAssemblyReference.cache
+C:\Users\Narus\Desktop\C# da Thread ve Eş Zamanlı İşlemler Emrecan DEDEOĞLU\Sleep metodu\Sunu9\obj\Debug\Sunu9.csproj.CoreCompileInputs.cache
+C:\Users\Narus\Desktop\C# da Thread ve Eş Zamanlı İşlemler Emrecan DEDEOĞLU\Sleep metodu\Sunu9\obj\Debug\Sunu9.exe
+C:\Users\Narus\Desktop\C# da Thread ve Eş Zamanlı İşlemler Emrecan DEDEOĞLU\Sleep metodu\Sunu9\obj\Debug\Sunu9.pdb
