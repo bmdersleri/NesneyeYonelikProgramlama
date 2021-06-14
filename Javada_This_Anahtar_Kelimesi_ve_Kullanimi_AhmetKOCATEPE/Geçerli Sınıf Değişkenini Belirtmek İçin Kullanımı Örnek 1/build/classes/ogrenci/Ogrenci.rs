@@ -1,0 +1,1 @@
+ogrenci.ogrenci
