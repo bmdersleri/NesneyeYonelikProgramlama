@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TabanDonusturme\TabanDonusturme\bin\Debug\TabanDonusturme.exe.config
+C:\Users\User\source\repos\TabanDonusturme\TabanDonusturme\bin\Debug\TabanDonusturme.exe
+C:\Users\User\source\repos\TabanDonusturme\TabanDonusturme\bin\Debug\TabanDonusturme.pdb
+C:\Users\User\source\repos\TabanDonusturme\TabanDonusturme\obj\Debug\TabanDonusturme.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TabanDonusturme\TabanDonusturme\obj\Debug\TabanDonusturme.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TabanDonusturme\TabanDonusturme\obj\Debug\TabanDonusturme.exe
+C:\Users\User\source\repos\TabanDonusturme\TabanDonusturme\obj\Debug\TabanDonusturme.pdb

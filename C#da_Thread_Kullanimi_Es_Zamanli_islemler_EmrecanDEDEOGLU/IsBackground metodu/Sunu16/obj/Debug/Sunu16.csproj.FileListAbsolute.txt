@@ -1,0 +1,7 @@
+C:\Users\Narus\source\repos\Sunu16\Sunu16\bin\Debug\Sunu16.exe.config
+C:\Users\Narus\source\repos\Sunu16\Sunu16\bin\Debug\Sunu16.exe
+C:\Users\Narus\source\repos\Sunu16\Sunu16\bin\Debug\Sunu16.pdb
+C:\Users\Narus\source\repos\Sunu16\Sunu16\obj\Debug\Sunu16.csprojAssemblyReference.cache
+C:\Users\Narus\source\repos\Sunu16\Sunu16\obj\Debug\Sunu16.csproj.CoreCompileInputs.cache
+C:\Users\Narus\source\repos\Sunu16\Sunu16\obj\Debug\Sunu16.exe
+C:\Users\Narus\source\repos\Sunu16\Sunu16\obj\Debug\Sunu16.pdb
