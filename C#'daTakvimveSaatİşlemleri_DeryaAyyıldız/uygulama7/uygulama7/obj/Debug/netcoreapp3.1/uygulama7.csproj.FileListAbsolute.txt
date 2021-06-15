@@ -1,0 +1,15 @@
+C:\Users\90538\source\repos\uygulama7\uygulama7\bin\Debug\netcoreapp3.1\uygulama7.exe
+C:\Users\90538\source\repos\uygulama7\uygulama7\bin\Debug\netcoreapp3.1\uygulama7.deps.json
+C:\Users\90538\source\repos\uygulama7\uygulama7\bin\Debug\netcoreapp3.1\uygulama7.runtimeconfig.json
+C:\Users\90538\source\repos\uygulama7\uygulama7\bin\Debug\netcoreapp3.1\uygulama7.runtimeconfig.dev.json
+C:\Users\90538\source\repos\uygulama7\uygulama7\bin\Debug\netcoreapp3.1\uygulama7.dll
+C:\Users\90538\source\repos\uygulama7\uygulama7\bin\Debug\netcoreapp3.1\uygulama7.pdb
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.csprojAssemblyReference.cache
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.Form1.resources
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.csproj.GenerateResource.cache
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.AssemblyInfoInputs.cache
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.AssemblyInfo.cs
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.csproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.dll
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.pdb
+C:\Users\90538\source\repos\uygulama7\uygulama7\obj\Debug\netcoreapp3.1\uygulama7.genruntimeconfig.cache
