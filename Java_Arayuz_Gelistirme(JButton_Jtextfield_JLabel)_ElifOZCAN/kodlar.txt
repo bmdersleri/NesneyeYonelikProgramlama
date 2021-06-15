@@ -1,0 +1,106 @@
+	jLabel Örneği
+
+import javax.swing.*;  
+class LabelExample  
+{  
+public static void main(String args[])  
+    {  
+    JFrame f= new JFrame("Label Example");  
+    JLabel l1,l2;  
+    l1=new JLabel("First Label.");  
+    l1.setBounds(50,50, 100,30);  
+    l2=new JLabel("Second Label.");  
+    l2.setBounds(50,100, 100,30);  
+    f.add(l1); f.add(l2);  
+    f.setSize(300,300);  
+    f.setLayout(null);  
+    f.setVisible(true);  
+    }  
+    }  
+
+	jButton örneği2
+
+import javax.swing.*;    
+public class ButtonExample {  
+public static void main(String[] args) {  
+    JFrame f=new JFrame("Button Example");  
+    JButton b=new JButton("Click Here");  
+    b.setBounds(50,100,95,30);  
+    f.add(b);  
+    f.setSize(400,400);  
+    f.setLayout(null);  
+    f.setVisible(true);   
+}  
+}  
+
+	jbutton örneği2
+
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JTextField;
+ 
+class JavaOrnekleri extends JFrame implements ActionListener {
+ 
+    JButton jb1, jb2;
+    JTextField jt;
+ 
+    JavaOrnekleri() {
+ 
+        jt = new JTextField();
+        jt.setBounds(90, 50, 150, 30);
+        add(jt);
+ 
+        jb1 = new JButton("Türkiye");
+        jb1.setBounds(50, 200, 100, 30);
+        add(jb1);
+ 
+        jb2 = new JButton("Azerbaycan");
+        jb2.setBounds(180, 200, 100, 30);
+        add(jb2);
+ 
+        jb1.addActionListener(this);
+        jb2.addActionListener(this);
+ 
+        setLayout(null);
+        setSize(400, 400);
+        setVisible(true);
+ 
+    }
+ 
+    public void actionPerformed(ActionEvent e) {
+ 
+        if (e.getSource().equals(jb1)) {
+            jt.setText("Türkiye");
+        } else if (e.getSource().equals(jb2)) {
+            jt.setText("Azerbaycan");
+        }
+    }
+ 
+    public static void main(String args[]) {
+        JavaOrnekleri t = new JavaOrnekleri();
+    }
+}
+
+	jTextfield örneği
+
+import javax.swing.*;
+public class JavaOrnekler{
+    
+    public static void main(String[] args) {
+        JFrame f= new JFrame("Tasarım Kodlama");  
+        JTextField t1,t2;  
+        t1=new JTextField("TextField Kullanımı");  
+        t1.setBounds(50,20, 250,30);  
+ 
+        t2=new JTextField("TextField Örnekleri");  
+        t2.setBounds(50,70, 250,30);  
+        f.add(t1); f.add(t2);  
+        f.setSize(400,200);  
+        f.setLayout(null);  
+        f.setVisible(true);
+    }
+}
+ 
+ 
