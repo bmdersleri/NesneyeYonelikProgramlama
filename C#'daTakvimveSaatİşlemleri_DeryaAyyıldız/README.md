@@ -106,7 +106,7 @@ ss: Saniye bilgisini iki basamaklı olarak görüntüler.
 
    Bağlantı: https://www.youtube.com/bmdersleri
 
-   Konu ile ilgili Youtube Video Linki : 
+   Konu ile ilgili Youtube Video Linki : https://youtu.be/ByZSezQvGis
 
    Kısa Bağlantı: https://bit.ly/32k9MnJ
 
