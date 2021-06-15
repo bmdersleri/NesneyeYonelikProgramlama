@@ -1,0 +1,12 @@
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\bin\Debug\netcoreapp3.1\bitseloperatorler.exe
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\bin\Debug\netcoreapp3.1\bitseloperatorler.deps.json
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\bin\Debug\netcoreapp3.1\bitseloperatorler.runtimeconfig.json
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\bin\Debug\netcoreapp3.1\bitseloperatorler.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\bin\Debug\netcoreapp3.1\bitseloperatorler.dll
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\bin\Debug\netcoreapp3.1\bitseloperatorler.pdb
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\obj\Debug\netcoreapp3.1\bitseloperatorler.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\obj\Debug\netcoreapp3.1\bitseloperatorler.AssemblyInfo.cs
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\obj\Debug\netcoreapp3.1\bitseloperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\obj\Debug\netcoreapp3.1\bitseloperatorler.dll
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\obj\Debug\netcoreapp3.1\bitseloperatorler.pdb
+C:\Users\Berat\source\repos\bitseloperatorler\bitseloperatorler\obj\Debug\netcoreapp3.1\bitseloperatorler.genruntimeconfig.cache

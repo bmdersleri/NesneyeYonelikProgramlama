@@ -1,0 +1,12 @@
+C:\Users\Berat\source\repos\ornek-03\ornek-03\bin\Debug\netcoreapp3.1\ornek-03.exe
+C:\Users\Berat\source\repos\ornek-03\ornek-03\bin\Debug\netcoreapp3.1\ornek-03.deps.json
+C:\Users\Berat\source\repos\ornek-03\ornek-03\bin\Debug\netcoreapp3.1\ornek-03.runtimeconfig.json
+C:\Users\Berat\source\repos\ornek-03\ornek-03\bin\Debug\netcoreapp3.1\ornek-03.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\ornek-03\ornek-03\bin\Debug\netcoreapp3.1\ornek-03.dll
+C:\Users\Berat\source\repos\ornek-03\ornek-03\bin\Debug\netcoreapp3.1\ornek-03.pdb
+C:\Users\Berat\source\repos\ornek-03\ornek-03\obj\Debug\netcoreapp3.1\ornek-03.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\ornek-03\ornek-03\obj\Debug\netcoreapp3.1\ornek-03.AssemblyInfo.cs
+C:\Users\Berat\source\repos\ornek-03\ornek-03\obj\Debug\netcoreapp3.1\ornek-03.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\ornek-03\ornek-03\obj\Debug\netcoreapp3.1\ornek-03.dll
+C:\Users\Berat\source\repos\ornek-03\ornek-03\obj\Debug\netcoreapp3.1\ornek-03.pdb
+C:\Users\Berat\source\repos\ornek-03\ornek-03\obj\Debug\netcoreapp3.1\ornek-03.genruntimeconfig.cache

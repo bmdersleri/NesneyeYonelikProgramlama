@@ -1,0 +1,12 @@
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\bin\Debug\netcoreapp3.1\aritmetikoperatorler.exe
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\bin\Debug\netcoreapp3.1\aritmetikoperatorler.deps.json
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\bin\Debug\netcoreapp3.1\aritmetikoperatorler.runtimeconfig.json
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\bin\Debug\netcoreapp3.1\aritmetikoperatorler.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\bin\Debug\netcoreapp3.1\aritmetikoperatorler.dll
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\bin\Debug\netcoreapp3.1\aritmetikoperatorler.pdb
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\obj\Debug\netcoreapp3.1\aritmetikoperatorler.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\obj\Debug\netcoreapp3.1\aritmetikoperatorler.AssemblyInfo.cs
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\obj\Debug\netcoreapp3.1\aritmetikoperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\obj\Debug\netcoreapp3.1\aritmetikoperatorler.dll
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\obj\Debug\netcoreapp3.1\aritmetikoperatorler.pdb
+C:\Users\Berat\source\repos\aritmetikoperatorler\aritmetikoperatorler\obj\Debug\netcoreapp3.1\aritmetikoperatorler.genruntimeconfig.cache

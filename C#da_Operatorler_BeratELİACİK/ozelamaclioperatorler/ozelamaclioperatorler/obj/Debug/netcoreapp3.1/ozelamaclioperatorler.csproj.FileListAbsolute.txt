@@ -1,0 +1,12 @@
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\bin\Debug\netcoreapp3.1\ozelamaclioperatorler.exe
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\bin\Debug\netcoreapp3.1\ozelamaclioperatorler.deps.json
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\bin\Debug\netcoreapp3.1\ozelamaclioperatorler.runtimeconfig.json
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\bin\Debug\netcoreapp3.1\ozelamaclioperatorler.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\bin\Debug\netcoreapp3.1\ozelamaclioperatorler.dll
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\bin\Debug\netcoreapp3.1\ozelamaclioperatorler.pdb
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\obj\Debug\netcoreapp3.1\ozelamaclioperatorler.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\obj\Debug\netcoreapp3.1\ozelamaclioperatorler.AssemblyInfo.cs
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\obj\Debug\netcoreapp3.1\ozelamaclioperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\obj\Debug\netcoreapp3.1\ozelamaclioperatorler.dll
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\obj\Debug\netcoreapp3.1\ozelamaclioperatorler.pdb
+C:\Users\Berat\source\repos\ozelamaclioperatorler\ozelamaclioperatorler\obj\Debug\netcoreapp3.1\ozelamaclioperatorler.genruntimeconfig.cache
