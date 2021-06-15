@@ -1,0 +1,8 @@
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\Dongulerle_Dizi_Islemleri\sunu_8\sunu_8\bin\Debug\sunu_8.exe.config
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\Dongulerle_Dizi_Islemleri\sunu_8\sunu_8\bin\Debug\sunu_8.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\Dongulerle_Dizi_Islemleri\sunu_8\sunu_8\bin\Debug\sunu_8.pdb
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\Dongulerle_Dizi_Islemleri\sunu_8\sunu_8\obj\Debug\sunu_8.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\Dongulerle_Dizi_Islemleri\sunu_8\sunu_8\obj\Debug\sunu_8.pdb
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\2_Dongulerle_Dizi_Islemleri\sunu_8\sunu_8\bin\Debug\sunu_8.exe.config
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\2_Dongulerle_Dizi_Islemleri\sunu_8\sunu_8\obj\Debug\sunu_8.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\2_Dongulerle_Dizi_Islemleri\sunu_8\sunu_8\obj\Debug\sunu_8.pdb

@@ -1,0 +1,6 @@
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\7_Uygulama_Ornegi_3\Sunu_17\Sunu_17\bin\Debug\Sunu_17.exe.config
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\7_Uygulama_Ornegi_3\Sunu_17\Sunu_17\bin\Debug\Sunu_17.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\7_Uygulama_Ornegi_3\Sunu_17\Sunu_17\bin\Debug\Sunu_17.pdb
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\7_Uygulama_Ornegi_3\Sunu_17\Sunu_17\obj\Debug\Sunu_17.csprojResolveAssemblyReference.cache
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\7_Uygulama_Ornegi_3\Sunu_17\Sunu_17\obj\Debug\Sunu_17.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\7_Uygulama_Ornegi_3\Sunu_17\Sunu_17\obj\Debug\Sunu_17.pdb
