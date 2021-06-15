@@ -1,0 +1,13 @@
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\obj\Debug\netcoreapp3.1\Dahili Olmayan Örnek.csprojAssemblyReference.cache
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\obj\Debug\netcoreapp3.1\Dahili Olmayan Örnek.AssemblyInfoInputs.cache
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\obj\Debug\netcoreapp3.1\Dahili Olmayan Örnek.AssemblyInfo.cs
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\obj\Debug\netcoreapp3.1\Dahili Olmayan Örnek.csproj.CoreCompileInputs.cache
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\bin\Debug\netcoreapp3.1\Dahili Olmayan Örnek.exe
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\bin\Debug\netcoreapp3.1\Dahili Olmayan Örnek.deps.json
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\bin\Debug\netcoreapp3.1\Dahili Olmayan Örnek.runtimeconfig.json
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\bin\Debug\netcoreapp3.1\Dahili Olmayan Örnek.runtimeconfig.dev.json
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\bin\Debug\netcoreapp3.1\Dahili Olmayan Örnek.dll
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\bin\Debug\netcoreapp3.1\Dahili Olmayan Örnek.pdb
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\obj\Debug\netcoreapp3.1\Dahili Olmayan Örnek.dll
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\obj\Debug\netcoreapp3.1\Dahili Olmayan Örnek.pdb
+C:\Users\tugra\source\repos\Dahili Olmayan Örnek\obj\Debug\netcoreapp3.1\Dahili Olmayan Örnek.genruntimeconfig.cache

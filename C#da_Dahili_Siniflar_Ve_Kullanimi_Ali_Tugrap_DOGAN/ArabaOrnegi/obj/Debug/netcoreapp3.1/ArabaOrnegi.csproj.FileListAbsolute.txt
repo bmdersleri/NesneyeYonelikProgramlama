@@ -1,0 +1,13 @@
+C:\Users\tugra\source\repos\ArabaOrnegi\bin\Debug\netcoreapp3.1\ArabaOrnegi.exe
+C:\Users\tugra\source\repos\ArabaOrnegi\bin\Debug\netcoreapp3.1\ArabaOrnegi.deps.json
+C:\Users\tugra\source\repos\ArabaOrnegi\bin\Debug\netcoreapp3.1\ArabaOrnegi.runtimeconfig.json
+C:\Users\tugra\source\repos\ArabaOrnegi\bin\Debug\netcoreapp3.1\ArabaOrnegi.runtimeconfig.dev.json
+C:\Users\tugra\source\repos\ArabaOrnegi\bin\Debug\netcoreapp3.1\ArabaOrnegi.dll
+C:\Users\tugra\source\repos\ArabaOrnegi\bin\Debug\netcoreapp3.1\ArabaOrnegi.pdb
+C:\Users\tugra\source\repos\ArabaOrnegi\obj\Debug\netcoreapp3.1\ArabaOrnegi.csprojAssemblyReference.cache
+C:\Users\tugra\source\repos\ArabaOrnegi\obj\Debug\netcoreapp3.1\ArabaOrnegi.AssemblyInfoInputs.cache
+C:\Users\tugra\source\repos\ArabaOrnegi\obj\Debug\netcoreapp3.1\ArabaOrnegi.AssemblyInfo.cs
+C:\Users\tugra\source\repos\ArabaOrnegi\obj\Debug\netcoreapp3.1\ArabaOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\tugra\source\repos\ArabaOrnegi\obj\Debug\netcoreapp3.1\ArabaOrnegi.dll
+C:\Users\tugra\source\repos\ArabaOrnegi\obj\Debug\netcoreapp3.1\ArabaOrnegi.pdb
+C:\Users\tugra\source\repos\ArabaOrnegi\obj\Debug\netcoreapp3.1\ArabaOrnegi.genruntimeconfig.cache

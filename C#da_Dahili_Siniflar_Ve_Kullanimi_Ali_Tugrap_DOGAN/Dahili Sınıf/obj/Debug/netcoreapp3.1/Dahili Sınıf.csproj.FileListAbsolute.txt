@@ -1,0 +1,13 @@
+C:\Users\tugra\source\repos\Dahili Sınıf\bin\Debug\netcoreapp3.1\Dahili Sınıf.exe
+C:\Users\tugra\source\repos\Dahili Sınıf\bin\Debug\netcoreapp3.1\Dahili Sınıf.deps.json
+C:\Users\tugra\source\repos\Dahili Sınıf\bin\Debug\netcoreapp3.1\Dahili Sınıf.runtimeconfig.json
+C:\Users\tugra\source\repos\Dahili Sınıf\bin\Debug\netcoreapp3.1\Dahili Sınıf.runtimeconfig.dev.json
+C:\Users\tugra\source\repos\Dahili Sınıf\bin\Debug\netcoreapp3.1\Dahili Sınıf.dll
+C:\Users\tugra\source\repos\Dahili Sınıf\bin\Debug\netcoreapp3.1\Dahili Sınıf.pdb
+C:\Users\tugra\source\repos\Dahili Sınıf\obj\Debug\netcoreapp3.1\Dahili Sınıf.csprojAssemblyReference.cache
+C:\Users\tugra\source\repos\Dahili Sınıf\obj\Debug\netcoreapp3.1\Dahili Sınıf.AssemblyInfoInputs.cache
+C:\Users\tugra\source\repos\Dahili Sınıf\obj\Debug\netcoreapp3.1\Dahili Sınıf.AssemblyInfo.cs
+C:\Users\tugra\source\repos\Dahili Sınıf\obj\Debug\netcoreapp3.1\Dahili Sınıf.csproj.CoreCompileInputs.cache
+C:\Users\tugra\source\repos\Dahili Sınıf\obj\Debug\netcoreapp3.1\Dahili Sınıf.dll
+C:\Users\tugra\source\repos\Dahili Sınıf\obj\Debug\netcoreapp3.1\Dahili Sınıf.pdb
+C:\Users\tugra\source\repos\Dahili Sınıf\obj\Debug\netcoreapp3.1\Dahili Sınıf.genruntimeconfig.cache
