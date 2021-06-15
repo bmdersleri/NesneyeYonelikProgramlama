@@ -1,0 +1,14 @@
+C:\Users\90538\source\repos\uygulama5\uygulama5\bin\Debug\netcoreapp3.1\uygulama5.exe
+C:\Users\90538\source\repos\uygulama5\uygulama5\bin\Debug\netcoreapp3.1\uygulama5.deps.json
+C:\Users\90538\source\repos\uygulama5\uygulama5\bin\Debug\netcoreapp3.1\uygulama5.runtimeconfig.json
+C:\Users\90538\source\repos\uygulama5\uygulama5\bin\Debug\netcoreapp3.1\uygulama5.runtimeconfig.dev.json
+C:\Users\90538\source\repos\uygulama5\uygulama5\bin\Debug\netcoreapp3.1\uygulama5.dll
+C:\Users\90538\source\repos\uygulama5\uygulama5\bin\Debug\netcoreapp3.1\uygulama5.pdb
+C:\Users\90538\source\repos\uygulama5\uygulama5\obj\Debug\netcoreapp3.1\uygulama5.Form1.resources
+C:\Users\90538\source\repos\uygulama5\uygulama5\obj\Debug\netcoreapp3.1\uygulama5.csproj.GenerateResource.cache
+C:\Users\90538\source\repos\uygulama5\uygulama5\obj\Debug\netcoreapp3.1\uygulama5.AssemblyInfoInputs.cache
+C:\Users\90538\source\repos\uygulama5\uygulama5\obj\Debug\netcoreapp3.1\uygulama5.AssemblyInfo.cs
+C:\Users\90538\source\repos\uygulama5\uygulama5\obj\Debug\netcoreapp3.1\uygulama5.csproj.CoreCompileInputs.cache
+C:\Users\90538\source\repos\uygulama5\uygulama5\obj\Debug\netcoreapp3.1\uygulama5.dll
+C:\Users\90538\source\repos\uygulama5\uygulama5\obj\Debug\netcoreapp3.1\uygulama5.pdb
+C:\Users\90538\source\repos\uygulama5\uygulama5\obj\Debug\netcoreapp3.1\uygulama5.genruntimeconfig.cache
