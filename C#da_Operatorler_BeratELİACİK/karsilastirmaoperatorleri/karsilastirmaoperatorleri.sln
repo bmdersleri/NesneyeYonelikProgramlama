@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karsilastirmaoperatorleri", "karsilastirmaoperatorleri\karsilastirmaoperatorleri.csproj", "{D5DFEE7F-D399-4B7D-BBE3-5AB7E0DF18B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5DFEE7F-D399-4B7D-BBE3-5AB7E0DF18B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DFEE7F-D399-4B7D-BBE3-5AB7E0DF18B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DFEE7F-D399-4B7D-BBE3-5AB7E0DF18B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DFEE7F-D399-4B7D-BBE3-5AB7E0DF18B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEE5BD16-4FA2-4CF0-9F58-DD0C3487CF37}
+	EndGlobalSection
+EndGlobal

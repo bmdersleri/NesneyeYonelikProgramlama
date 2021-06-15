@@ -1,0 +1,12 @@
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\bin\Debug\netcoreapp3.1\karsilastirmaoperatorleri.exe
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\bin\Debug\netcoreapp3.1\karsilastirmaoperatorleri.deps.json
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\bin\Debug\netcoreapp3.1\karsilastirmaoperatorleri.runtimeconfig.json
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\bin\Debug\netcoreapp3.1\karsilastirmaoperatorleri.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\bin\Debug\netcoreapp3.1\karsilastirmaoperatorleri.dll
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\bin\Debug\netcoreapp3.1\karsilastirmaoperatorleri.pdb
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\obj\Debug\netcoreapp3.1\karsilastirmaoperatorleri.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\obj\Debug\netcoreapp3.1\karsilastirmaoperatorleri.AssemblyInfo.cs
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\obj\Debug\netcoreapp3.1\karsilastirmaoperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\obj\Debug\netcoreapp3.1\karsilastirmaoperatorleri.dll
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\obj\Debug\netcoreapp3.1\karsilastirmaoperatorleri.pdb
+C:\Users\Berat\source\repos\karsilastirmaoperatorleri\karsilastirmaoperatorleri\obj\Debug\netcoreapp3.1\karsilastirmaoperatorleri.genruntimeconfig.cache

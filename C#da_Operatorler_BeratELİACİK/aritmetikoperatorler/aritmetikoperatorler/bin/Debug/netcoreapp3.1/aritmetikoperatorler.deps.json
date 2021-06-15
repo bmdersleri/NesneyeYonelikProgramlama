@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "aritmetikoperatorler/1.0.0": {
+        "runtime": {
+          "aritmetikoperatorler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aritmetikoperatorler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

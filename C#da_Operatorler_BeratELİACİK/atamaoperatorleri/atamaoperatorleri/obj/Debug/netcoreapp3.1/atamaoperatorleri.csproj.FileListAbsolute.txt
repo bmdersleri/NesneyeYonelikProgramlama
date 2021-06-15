@@ -1,0 +1,12 @@
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\obj\Debug\netcoreapp3.1\atamaoperatorleri.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\obj\Debug\netcoreapp3.1\atamaoperatorleri.AssemblyInfo.cs
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\obj\Debug\netcoreapp3.1\atamaoperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\bin\Debug\netcoreapp3.1\atamaoperatorleri.exe
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\bin\Debug\netcoreapp3.1\atamaoperatorleri.deps.json
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\bin\Debug\netcoreapp3.1\atamaoperatorleri.runtimeconfig.json
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\bin\Debug\netcoreapp3.1\atamaoperatorleri.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\bin\Debug\netcoreapp3.1\atamaoperatorleri.dll
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\bin\Debug\netcoreapp3.1\atamaoperatorleri.pdb
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\obj\Debug\netcoreapp3.1\atamaoperatorleri.dll
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\obj\Debug\netcoreapp3.1\atamaoperatorleri.pdb
+C:\Users\Berat\source\repos\atamaoperatorleri\atamaoperatorleri\obj\Debug\netcoreapp3.1\atamaoperatorleri.genruntimeconfig.cache

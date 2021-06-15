@@ -1,0 +1,13 @@
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\bin\Debug\netcoreapp3.1\mantiksaloperatorler.exe
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\bin\Debug\netcoreapp3.1\mantiksaloperatorler.deps.json
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\bin\Debug\netcoreapp3.1\mantiksaloperatorler.runtimeconfig.json
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\bin\Debug\netcoreapp3.1\mantiksaloperatorler.runtimeconfig.dev.json
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\bin\Debug\netcoreapp3.1\mantiksaloperatorler.dll
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\bin\Debug\netcoreapp3.1\mantiksaloperatorler.pdb
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\obj\Debug\netcoreapp3.1\mantiksaloperatorler.csprojAssemblyReference.cache
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\obj\Debug\netcoreapp3.1\mantiksaloperatorler.AssemblyInfoInputs.cache
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\obj\Debug\netcoreapp3.1\mantiksaloperatorler.AssemblyInfo.cs
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\obj\Debug\netcoreapp3.1\mantiksaloperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\obj\Debug\netcoreapp3.1\mantiksaloperatorler.dll
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\obj\Debug\netcoreapp3.1\mantiksaloperatorler.pdb
+C:\Users\Berat\source\repos\mantiksaloperatorler\mantiksaloperatorler\obj\Debug\netcoreapp3.1\mantiksaloperatorler.genruntimeconfig.cache
