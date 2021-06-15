@@ -11,7 +11,7 @@ C# da programcı, program tarafından değerlendirilecek veya test edilecek bir 
 
    Bağlantı: https://www.youtube.com/bmdersleri
 
-   Konu ile ilgili Youtube Video Linki : 
+   Konu ile ilgili Youtube Video Linki : https://www.youtube.com/watch?v=wKx3ySGoJHA
 
    Kısa Bağlantı: https://bit.ly/32k9MnJ
 
