@@ -64,6 +64,7 @@ Java’da iç içe geçmiş if ifadesinin (Nested if) genel biçimi veya sözdiz
 if (koşul1) 
 {
    // koşul1 doğru olduğunda çalıştırılır
+
    if (koşul2) 
    {
       // koşul2 doğru olduğunda çalıştırılır
