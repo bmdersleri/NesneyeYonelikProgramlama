@@ -1,0 +1,80 @@
+List<int> myList = new List<int>();
+myList.Add(3);
+myList.Add(4);
+// myList.Add(5.0);
+int total = 0;
+foreach(int val in myList)
+{
+        total = total + val;
+}
+Console.WriteLine("Toplam : {0}", total);
+
+
+//“Toplam : 7” çıktısını verecektir.
+
+//MyList.cs
+ 
+using System;
+using System.Collections.Generic;
+using System.Text;
+ 
+namespace CLRSupportExample
+{
+    public class MyList<T>
+    {
+        private static int objCount = 0;
+ 
+        public MyList()
+        {
+                objCount++;
+        }
+ 
+        public int Count
+        {
+                get
+                {
+                    return objCount;
+                }
+        }
+    }
+}
+ 
+//Program.cs
+ 
+using System;
+using System.Collections.Generic;
+using System.Text;
+ 
+namespace CLRSupportExample
+{
+    class SampleClass {}
+ 
+        class Program
+        {
+            static void Main(string[] args)
+            {
+                    MyList<int> myIntList = new MyList<int>();
+                    MyList<int> myIntList2 = new MyList<int>();
+ 
+                    MyList<double> myDoubleList = new MyList<double>();
+ 
+                    MyList<SampleClass> mySampleList = new MyList<SampleClass>();
+                                     
+                    Console.WriteLine(myIntList.Count);
+                    Console.WriteLine(myIntList2.Count);
+                    Console.WriteLine(myDoubleList.Count);
+                    Console.WriteLine(mySampleList.Count);
+                    Console.WriteLine(new MyList<SampleClass>().Count);
+ 
+                    Console.ReadLine();
+            }
+        }
+}
+
+
+
+
+
+
+
+
