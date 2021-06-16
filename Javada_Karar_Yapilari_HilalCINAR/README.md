@@ -112,20 +112,36 @@ If / else – if durumuna benzer, ama Switch – case durumunda aralıklarla de�
 
 Java’da Switch – Case ifadesinin genel biçimi veya sözdizimi şöyledir:
 
- switch (Değişken ismi) {						 switch (Değişken ismi) {
-         	   case koşul1:							   case koşul1:
-           	     Çalıştırılacak kod						        Çalıştırılacak kod
-              	     break;								break;
-          	   case koşul2:							   case koşul2:
-             	     Çalıştırılacak kod						        Çalıştırılacak kod
-              	     break;								break;
-          	   case koşul3:							   case koşul3:								
-                     Çalıştırılacak kod						   case koşul4:
-                     break;								 Çalıştırılacak kod
-                   default:								 break;
-                     Çalıştırılacak kod						   default:
-         }									         Çalıştırılacak kod
-									       }
+ switch (Değişken ismi) {
+            case koşul1:
+                Çalıştırılacak kod
+                break;
+            case koşul2:
+                Çalıştırılacak kod
+                break;
+            case koşul3:
+                Çalıştırılacak kod
+                break;
+            default:
+                Çalıştırılacak kod
+        }
+
+
+
+ switch (Değişken ismi) {
+            case koşul1:
+                Çalıştırılacak kod
+                break;
+            case koşul2:
+                Çalıştırılacak kod
+                break;
+            case koşul3:
+	   case koşul4:
+                Çalıştırılacak kod
+                break;
+            default:
+                Çalıştırılacak kod
+        }
 
 
 
