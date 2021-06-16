@@ -22,9 +22,7 @@ If ifadesinin genel biçimi veya sözdizimi şöyledir:
 
 if (koşul) {
 
-
    // Yürütülmek istenen ifadeler (Çalıştırılmak istenen kod)
-
 
 }
 
@@ -65,7 +63,6 @@ Java’da iç içe geçmiş if ifadesinin (Nested if) genel biçimi veya sözdiz
 
 if (koşul1) 
 {
-
    // koşul1 doğru olduğunda çalıştırılır
 
    if (koşul2) 
@@ -74,7 +71,6 @@ if (koşul1)
       // koşul2 doğru olduğunda çalıştırılır
 
    }
-
 }
  
 	
@@ -88,7 +84,7 @@ if / else – if ifadesinin genel biçimi veya sözdizimi şöyledir:
 if(koşul1)
 {
 
-//koşul1 doğru olduğunda çalıştırılır
+  //koşul1 doğru olduğunda çalıştırılır
 
 }
 
@@ -96,7 +92,7 @@ else if (koşul2)
 {
 
 
-//koşul2 doğru olduğunda çalıştırılır
+   //koşul2 doğru olduğunda çalıştırılır
 
 }
 
@@ -104,7 +100,7 @@ else if (koşul3)
 {
 
 
-//koşul3 doğru olduğunda çalıştırılır
+  //koşul3 doğru olduğunda çalıştırılır
 
 }
 .
@@ -114,8 +110,8 @@ else
 
 {
 
-//Koşullardan hiçbiri doğru değilse çalışacak kod kısmı
-
+  //Koşullardan hiçbiri doğru değilse çalışacak kod kısmı
+ 
 }
 
 
