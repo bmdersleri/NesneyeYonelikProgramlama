@@ -142,8 +142,8 @@ Java’da Switch – Case ifadesinin genel biçimi veya sözdizimi şöyledir:
                 Çalıştırılacak kod
                 break;
 
-	    case koşul3:
-	    case koşul4:
+	    	case koşul3:
+	    	case koşul4:
                 Çalıştırılacak kod
                 break;
 
