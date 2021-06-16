@@ -4,7 +4,7 @@ Youtube Kanalımız: BMDersleri
 
 BMDersleri YouTUBE  : https://www.youtube.com/bmdersleri 
 
-Konu ile ilgili Youtube Video Linki : https://www.youtube.com/watch?v=OK9JE5tDoFw
+Konu ile ilgili Youtube Video Linki : https://youtu.be/Eq2WcC4tpFA
 
 Github Adresimiz: https://github.com/bmdersleri
 
