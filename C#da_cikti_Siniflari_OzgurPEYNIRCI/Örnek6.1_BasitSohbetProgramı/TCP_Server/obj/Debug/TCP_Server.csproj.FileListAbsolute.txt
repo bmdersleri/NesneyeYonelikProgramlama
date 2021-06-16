@@ -1,0 +1,7 @@
+C:\Users\Muhut\source\repos\Örnek61\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Muhut\source\repos\Örnek61\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\Muhut\source\repos\Örnek61\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\Muhut\source\repos\Örnek61\TCP_Server\obj\Debug\TCP_Server.csprojAssemblyReference.cache
+C:\Users\Muhut\source\repos\Örnek61\TCP_Server\obj\Debug\TCP_Server.csproj.CoreCompileInputs.cache
+C:\Users\Muhut\source\repos\Örnek61\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\Muhut\source\repos\Örnek61\TCP_Server\obj\Debug\TCP_Server.pdb
