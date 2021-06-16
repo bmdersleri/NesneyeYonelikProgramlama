@@ -129,16 +129,20 @@ Java’da Switch – Case ifadesinin genel biçimi veya sözdizimi şöyledir:
 
 
  switch (Değişken ismi) {
+
             case koşul1:
                 Çalıştırılacak kod
                 break;
+
             case koşul2:
                 Çalıştırılacak kod
                 break;
+
             case koşul3:
-	   case koşul4:
+	    case koşul4:
                 Çalıştırılacak kod
                 break;
+
             default:
                 Çalıştırılacak kod
         }
