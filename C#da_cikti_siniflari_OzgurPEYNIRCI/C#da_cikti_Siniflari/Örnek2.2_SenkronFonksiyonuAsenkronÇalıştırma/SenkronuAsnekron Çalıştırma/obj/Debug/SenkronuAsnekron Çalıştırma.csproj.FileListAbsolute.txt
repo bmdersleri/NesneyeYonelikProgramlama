@@ -1,7 +1,0 @@
-C:\Users\Muhut\source\repos\SenkronuAsnekron Çalıştırma\SenkronuAsnekron Çalıştırma\bin\Debug\SenkronuAsnekron Çalıştırma.exe.config
-C:\Users\Muhut\source\repos\SenkronuAsnekron Çalıştırma\SenkronuAsnekron Çalıştırma\bin\Debug\SenkronuAsnekron Çalıştırma.exe
-C:\Users\Muhut\source\repos\SenkronuAsnekron Çalıştırma\SenkronuAsnekron Çalıştırma\bin\Debug\SenkronuAsnekron Çalıştırma.pdb
-C:\Users\Muhut\source\repos\SenkronuAsnekron Çalıştırma\SenkronuAsnekron Çalıştırma\obj\Debug\SenkronuAsnekron Çalıştırma.csprojAssemblyReference.cache
-C:\Users\Muhut\source\repos\SenkronuAsnekron Çalıştırma\SenkronuAsnekron Çalıştırma\obj\Debug\SenkronuAsnekron Çalıştırma.csproj.CoreCompileInputs.cache
-C:\Users\Muhut\source\repos\SenkronuAsnekron Çalıştırma\SenkronuAsnekron Çalıştırma\obj\Debug\SenkronuAsnekron Çalıştırma.exe
-C:\Users\Muhut\source\repos\SenkronuAsnekron Çalıştırma\SenkronuAsnekron Çalıştırma\obj\Debug\SenkronuAsnekron Çalıştırma.pdb
