@@ -22,10 +22,12 @@ If ifadesinin genel biçimi veya sözdizimi şöyledir:
 
 if (koşul) {
 
+
    // Yürütülmek istenen ifadeler (Çalıştırılmak istenen kod)
 
+
 }
- 
+
 
 -> JAVA'DA IF / ELSE İFADESİ:
 
