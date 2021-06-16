@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dahili Olmayan Örnek/1.0.0": {
+        "runtime": {
+          "Dahili Olmayan Örnek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dahili Olmayan Örnek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

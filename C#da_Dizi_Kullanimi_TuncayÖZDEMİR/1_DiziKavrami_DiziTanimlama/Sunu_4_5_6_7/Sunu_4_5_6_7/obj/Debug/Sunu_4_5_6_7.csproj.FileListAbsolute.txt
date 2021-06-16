@@ -1,0 +1,9 @@
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\bin\Debug\Sunu_4_5_6_7.exe.config
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\bin\Debug\Sunu_4_5_6_7.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\bin\Debug\Sunu_4_5_6_7.pdb
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\obj\Debug\Sunu_4_5_6_7.csprojResolveAssemblyReference.cache
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\obj\Debug\Sunu_4_5_6_7.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\obj\Debug\Sunu_4_5_6_7.pdb
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\1_DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\bin\Debug\Sunu_4_5_6_7.exe.config
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\1_DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\obj\Debug\Sunu_4_5_6_7.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\1_DiziKavrami_DiziTanimlama\Sunu_4_5_6_7\Sunu_4_5_6_7\obj\Debug\Sunu_4_5_6_7.pdb

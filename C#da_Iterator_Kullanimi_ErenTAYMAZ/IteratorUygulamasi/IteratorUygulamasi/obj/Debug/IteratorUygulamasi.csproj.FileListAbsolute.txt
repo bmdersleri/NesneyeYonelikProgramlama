@@ -1,0 +1,7 @@
+C:\Users\eren_\source\repos\IteratorUygulamasi\IteratorUygulamasi\bin\Debug\IteratorUygulamasi.exe.config
+C:\Users\eren_\source\repos\IteratorUygulamasi\IteratorUygulamasi\bin\Debug\IteratorUygulamasi.exe
+C:\Users\eren_\source\repos\IteratorUygulamasi\IteratorUygulamasi\bin\Debug\IteratorUygulamasi.pdb
+C:\Users\eren_\source\repos\IteratorUygulamasi\IteratorUygulamasi\obj\Debug\IteratorUygulamasi.csprojAssemblyReference.cache
+C:\Users\eren_\source\repos\IteratorUygulamasi\IteratorUygulamasi\obj\Debug\IteratorUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\eren_\source\repos\IteratorUygulamasi\IteratorUygulamasi\obj\Debug\IteratorUygulamasi.exe
+C:\Users\eren_\source\repos\IteratorUygulamasi\IteratorUygulamasi\obj\Debug\IteratorUygulamasi.pdb

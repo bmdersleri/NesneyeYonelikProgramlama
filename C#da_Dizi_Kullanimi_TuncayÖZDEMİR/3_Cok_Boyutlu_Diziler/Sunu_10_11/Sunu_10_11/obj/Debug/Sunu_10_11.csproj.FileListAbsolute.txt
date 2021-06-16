@@ -1,0 +1,6 @@
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\3_Cok_Boyutlu_Diziler\Sunu_10_11\Sunu_10_11\bin\Debug\Sunu_10_11.exe.config
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\3_Cok_Boyutlu_Diziler\Sunu_10_11\Sunu_10_11\bin\Debug\Sunu_10_11.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\3_Cok_Boyutlu_Diziler\Sunu_10_11\Sunu_10_11\bin\Debug\Sunu_10_11.pdb
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\3_Cok_Boyutlu_Diziler\Sunu_10_11\Sunu_10_11\obj\Debug\Sunu_10_11.csprojResolveAssemblyReference.cache
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\3_Cok_Boyutlu_Diziler\Sunu_10_11\Sunu_10_11\obj\Debug\Sunu_10_11.exe
+C:\Users\cellmatncy\Documents\Visual Studio 2015\Projects\C#da_dizi_kullanımı_TuncayÖZDEMİR\3_Cok_Boyutlu_Diziler\Sunu_10_11\Sunu_10_11\obj\Debug\Sunu_10_11.pdb
