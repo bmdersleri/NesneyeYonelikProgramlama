@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenkronuAsnekron Çalıştırma", "SenkronuAsnekron Çalıştırma\SenkronuAsnekron Çalıştırma.csproj", "{68CD3CB6-226D-4174-B796-8D4B7CCC1422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CD3CB6-226D-4174-B796-8D4B7CCC1422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CD3CB6-226D-4174-B796-8D4B7CCC1422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CD3CB6-226D-4174-B796-8D4B7CCC1422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CD3CB6-226D-4174-B796-8D4B7CCC1422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36FFE82F-FE48-4090-8E74-5E1253F34AE9}
+	EndGlobalSection
+EndGlobal
