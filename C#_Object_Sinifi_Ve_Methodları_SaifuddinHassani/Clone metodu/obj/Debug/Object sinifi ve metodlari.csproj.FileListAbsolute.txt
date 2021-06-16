@@ -1,0 +1,7 @@
+C:\Users\Saifuddin Hassani\source\repos\Object sinifi ve metodlari\Object sinifi ve metodlari\bin\Debug\Object sinifi ve metodlari.exe.config
+C:\Users\Saifuddin Hassani\source\repos\Object sinifi ve metodlari\Object sinifi ve metodlari\bin\Debug\Object sinifi ve metodlari.exe
+C:\Users\Saifuddin Hassani\source\repos\Object sinifi ve metodlari\Object sinifi ve metodlari\bin\Debug\Object sinifi ve metodlari.pdb
+C:\Users\Saifuddin Hassani\source\repos\Object sinifi ve metodlari\Object sinifi ve metodlari\obj\Debug\Object sinifi ve metodlari.csproj.CoreCompileInputs.cache
+C:\Users\Saifuddin Hassani\source\repos\Object sinifi ve metodlari\Object sinifi ve metodlari\obj\Debug\Object sinifi ve metodlari.exe
+C:\Users\Saifuddin Hassani\source\repos\Object sinifi ve metodlari\Object sinifi ve metodlari\obj\Debug\Object sinifi ve metodlari.pdb
+C:\Users\Saifuddin Hassani\source\repos\Object sinifi ve metodlari\Object sinifi ve metodlari\obj\Debug\Object sinifi ve metodlari.csprojAssemblyReference.cache
