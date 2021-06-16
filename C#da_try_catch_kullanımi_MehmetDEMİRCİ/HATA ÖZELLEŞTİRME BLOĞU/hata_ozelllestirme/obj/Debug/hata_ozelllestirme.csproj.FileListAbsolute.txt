@@ -1,0 +1,7 @@
+C:\Users\client346\Desktop\visual projeler\hata_ozelllestirme\hata_ozelllestirme\bin\Debug\hata_ozelllestirme.exe.config
+C:\Users\client346\Desktop\visual projeler\hata_ozelllestirme\hata_ozelllestirme\bin\Debug\hata_ozelllestirme.exe
+C:\Users\client346\Desktop\visual projeler\hata_ozelllestirme\hata_ozelllestirme\bin\Debug\hata_ozelllestirme.pdb
+C:\Users\client346\Desktop\visual projeler\hata_ozelllestirme\hata_ozelllestirme\obj\Debug\hata_ozelllestirme.csprojAssemblyReference.cache
+C:\Users\client346\Desktop\visual projeler\hata_ozelllestirme\hata_ozelllestirme\obj\Debug\hata_ozelllestirme.csproj.CoreCompileInputs.cache
+C:\Users\client346\Desktop\visual projeler\hata_ozelllestirme\hata_ozelllestirme\obj\Debug\hata_ozelllestirme.exe
+C:\Users\client346\Desktop\visual projeler\hata_ozelllestirme\hata_ozelllestirme\obj\Debug\hata_ozelllestirme.pdb

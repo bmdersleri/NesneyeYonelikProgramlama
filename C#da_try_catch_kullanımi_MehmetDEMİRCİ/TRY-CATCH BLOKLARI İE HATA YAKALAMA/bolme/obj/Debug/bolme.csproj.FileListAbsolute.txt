@@ -1,0 +1,7 @@
+C:\Users\client346\Desktop\visual projeler\bolme\bolme\obj\Debug\bolme.csprojAssemblyReference.cache
+C:\Users\client346\Desktop\visual projeler\bolme\bolme\obj\Debug\bolme.csproj.CoreCompileInputs.cache
+C:\Users\client346\Desktop\visual projeler\bolme\bolme\bin\Debug\bolme.exe.config
+C:\Users\client346\Desktop\visual projeler\bolme\bolme\bin\Debug\bolme.exe
+C:\Users\client346\Desktop\visual projeler\bolme\bolme\bin\Debug\bolme.pdb
+C:\Users\client346\Desktop\visual projeler\bolme\bolme\obj\Debug\bolme.exe
+C:\Users\client346\Desktop\visual projeler\bolme\bolme\obj\Debug\bolme.pdb

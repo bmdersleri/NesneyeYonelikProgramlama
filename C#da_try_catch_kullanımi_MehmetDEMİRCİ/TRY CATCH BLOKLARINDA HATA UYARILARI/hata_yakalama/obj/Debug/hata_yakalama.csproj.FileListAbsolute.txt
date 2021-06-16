@@ -1,0 +1,7 @@
+C:\Users\client346\Desktop\visual projeler\hata_yakalama\hata_yakalama\bin\Debug\hata_yakalama.exe.config
+C:\Users\client346\Desktop\visual projeler\hata_yakalama\hata_yakalama\bin\Debug\hata_yakalama.exe
+C:\Users\client346\Desktop\visual projeler\hata_yakalama\hata_yakalama\bin\Debug\hata_yakalama.pdb
+C:\Users\client346\Desktop\visual projeler\hata_yakalama\hata_yakalama\obj\Debug\hata_yakalama.csprojAssemblyReference.cache
+C:\Users\client346\Desktop\visual projeler\hata_yakalama\hata_yakalama\obj\Debug\hata_yakalama.csproj.CoreCompileInputs.cache
+C:\Users\client346\Desktop\visual projeler\hata_yakalama\hata_yakalama\obj\Debug\hata_yakalama.exe
+C:\Users\client346\Desktop\visual projeler\hata_yakalama\hata_yakalama\obj\Debug\hata_yakalama.pdb

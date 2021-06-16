@@ -1,0 +1,7 @@
+C:\Users\client346\Desktop\visual projeler\birden_fazla_catch\birden_fazla_catch\obj\Debug\birden_fazla_catch.csprojAssemblyReference.cache
+C:\Users\client346\Desktop\visual projeler\birden_fazla_catch\birden_fazla_catch\obj\Debug\birden_fazla_catch.csproj.CoreCompileInputs.cache
+C:\Users\client346\Desktop\visual projeler\birden_fazla_catch\birden_fazla_catch\bin\Debug\birden_fazla_catch.exe.config
+C:\Users\client346\Desktop\visual projeler\birden_fazla_catch\birden_fazla_catch\bin\Debug\birden_fazla_catch.exe
+C:\Users\client346\Desktop\visual projeler\birden_fazla_catch\birden_fazla_catch\bin\Debug\birden_fazla_catch.pdb
+C:\Users\client346\Desktop\visual projeler\birden_fazla_catch\birden_fazla_catch\obj\Debug\birden_fazla_catch.exe
+C:\Users\client346\Desktop\visual projeler\birden_fazla_catch\birden_fazla_catch\obj\Debug\birden_fazla_catch.pdb
