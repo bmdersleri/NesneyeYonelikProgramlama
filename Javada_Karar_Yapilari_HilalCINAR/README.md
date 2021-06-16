@@ -72,6 +72,7 @@ if (koşul1)
       // koşul2 doğru olduğunda çalıştırılır
 
    }
+
 }
  
 	
@@ -88,14 +89,18 @@ if(koşul1)
 //koşul1 doğru olduğunda çalıştırılır
 
 }
+
 else if (koşul2)
 {
+
 
 //koşul2 doğru olduğunda çalıştırılır
 
 }
+
 else if (koşul3)
 {
+
 
 //koşul3 doğru olduğunda çalıştırılır
 
@@ -104,6 +109,7 @@ else if (koşul3)
 .
 .
 else
+
 {
 
 //Koşullardan hiçbiri doğru değilse çalışacak kod kısmı
