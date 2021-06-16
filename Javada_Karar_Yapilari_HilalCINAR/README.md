@@ -66,6 +66,7 @@ if (koşul1)
    // koşul1 doğru olduğunda çalıştırılır
 
    if (koşul2) 
+
    {
 
       // koşul2 doğru olduğunda çalıştırılır
@@ -82,6 +83,7 @@ if / else – if ifadesinin genel biçimi veya sözdizimi şöyledir:
 
 
 if(koşul1)
+
 {
 
   //koşul1 doğru olduğunda çalıştırılır
@@ -89,16 +91,15 @@ if(koşul1)
 }
 
 else if (koşul2)
+
 {
-
-
    //koşul2 doğru olduğunda çalıştırılır
 
 }
 
 else if (koşul3)
-{
 
+{
 
   //koşul3 doğru olduğunda çalıştırılır
 
