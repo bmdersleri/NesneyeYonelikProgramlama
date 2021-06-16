@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\asenkron\asenkron\bin\Debug\netcoreapp3.1\asenkron.exe
+C:\Users\HP\source\repos\asenkron\asenkron\bin\Debug\netcoreapp3.1\asenkron.deps.json
+C:\Users\HP\source\repos\asenkron\asenkron\bin\Debug\netcoreapp3.1\asenkron.runtimeconfig.json
+C:\Users\HP\source\repos\asenkron\asenkron\bin\Debug\netcoreapp3.1\asenkron.runtimeconfig.dev.json
+C:\Users\HP\source\repos\asenkron\asenkron\bin\Debug\netcoreapp3.1\asenkron.dll
+C:\Users\HP\source\repos\asenkron\asenkron\bin\Debug\netcoreapp3.1\asenkron.pdb
+C:\Users\HP\source\repos\asenkron\asenkron\obj\Debug\netcoreapp3.1\asenkron.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\asenkron\asenkron\obj\Debug\netcoreapp3.1\asenkron.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\asenkron\asenkron\obj\Debug\netcoreapp3.1\asenkron.AssemblyInfo.cs
+C:\Users\HP\source\repos\asenkron\asenkron\obj\Debug\netcoreapp3.1\asenkron.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\asenkron\asenkron\obj\Debug\netcoreapp3.1\asenkron.dll
+C:\Users\HP\source\repos\asenkron\asenkron\obj\Debug\netcoreapp3.1\asenkron.pdb
+C:\Users\HP\source\repos\asenkron\asenkron\obj\Debug\netcoreapp3.1\asenkron.genruntimeconfig.cache

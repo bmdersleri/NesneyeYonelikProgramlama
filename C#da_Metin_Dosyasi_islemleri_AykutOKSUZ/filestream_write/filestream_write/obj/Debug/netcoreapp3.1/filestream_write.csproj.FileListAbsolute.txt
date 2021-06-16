@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\filestream_write\filestream_write\bin\Debug\netcoreapp3.1\filestream_write.exe
+C:\Users\HP\source\repos\filestream_write\filestream_write\bin\Debug\netcoreapp3.1\filestream_write.deps.json
+C:\Users\HP\source\repos\filestream_write\filestream_write\bin\Debug\netcoreapp3.1\filestream_write.runtimeconfig.json
+C:\Users\HP\source\repos\filestream_write\filestream_write\bin\Debug\netcoreapp3.1\filestream_write.runtimeconfig.dev.json
+C:\Users\HP\source\repos\filestream_write\filestream_write\bin\Debug\netcoreapp3.1\filestream_write.dll
+C:\Users\HP\source\repos\filestream_write\filestream_write\bin\Debug\netcoreapp3.1\filestream_write.pdb
+C:\Users\HP\source\repos\filestream_write\filestream_write\obj\Debug\netcoreapp3.1\filestream_write.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\filestream_write\filestream_write\obj\Debug\netcoreapp3.1\filestream_write.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\filestream_write\filestream_write\obj\Debug\netcoreapp3.1\filestream_write.AssemblyInfo.cs
+C:\Users\HP\source\repos\filestream_write\filestream_write\obj\Debug\netcoreapp3.1\filestream_write.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\filestream_write\filestream_write\obj\Debug\netcoreapp3.1\filestream_write.dll
+C:\Users\HP\source\repos\filestream_write\filestream_write\obj\Debug\netcoreapp3.1\filestream_write.pdb
+C:\Users\HP\source\repos\filestream_write\filestream_write\obj\Debug\netcoreapp3.1\filestream_write.genruntimeconfig.cache

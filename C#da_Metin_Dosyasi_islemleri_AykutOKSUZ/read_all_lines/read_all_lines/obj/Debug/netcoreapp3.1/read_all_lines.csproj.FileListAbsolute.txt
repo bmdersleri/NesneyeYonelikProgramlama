@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\bin\Debug\netcoreapp3.1\read_all_lines.exe
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\bin\Debug\netcoreapp3.1\read_all_lines.deps.json
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\bin\Debug\netcoreapp3.1\read_all_lines.runtimeconfig.json
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\bin\Debug\netcoreapp3.1\read_all_lines.runtimeconfig.dev.json
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\bin\Debug\netcoreapp3.1\read_all_lines.dll
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\bin\Debug\netcoreapp3.1\read_all_lines.pdb
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\obj\Debug\netcoreapp3.1\read_all_lines.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\obj\Debug\netcoreapp3.1\read_all_lines.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\obj\Debug\netcoreapp3.1\read_all_lines.AssemblyInfo.cs
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\obj\Debug\netcoreapp3.1\read_all_lines.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\obj\Debug\netcoreapp3.1\read_all_lines.dll
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\obj\Debug\netcoreapp3.1\read_all_lines.pdb
+C:\Users\HP\source\repos\read_all_lines\read_all_lines\obj\Debug\netcoreapp3.1\read_all_lines.genruntimeconfig.cache

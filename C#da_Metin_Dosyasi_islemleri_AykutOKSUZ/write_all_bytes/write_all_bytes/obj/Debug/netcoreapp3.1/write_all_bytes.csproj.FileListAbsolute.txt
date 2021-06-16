@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\bin\Debug\netcoreapp3.1\write_all_bytes.exe
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\bin\Debug\netcoreapp3.1\write_all_bytes.deps.json
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\bin\Debug\netcoreapp3.1\write_all_bytes.runtimeconfig.json
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\bin\Debug\netcoreapp3.1\write_all_bytes.runtimeconfig.dev.json
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\bin\Debug\netcoreapp3.1\write_all_bytes.dll
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\bin\Debug\netcoreapp3.1\write_all_bytes.pdb
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\obj\Debug\netcoreapp3.1\write_all_bytes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\obj\Debug\netcoreapp3.1\write_all_bytes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\obj\Debug\netcoreapp3.1\write_all_bytes.AssemblyInfo.cs
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\obj\Debug\netcoreapp3.1\write_all_bytes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\obj\Debug\netcoreapp3.1\write_all_bytes.dll
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\obj\Debug\netcoreapp3.1\write_all_bytes.pdb
+C:\Users\HP\source\repos\write_all_bytes\write_all_bytes\obj\Debug\netcoreapp3.1\write_all_bytes.genruntimeconfig.cache

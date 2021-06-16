@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\bin\Debug\netcoreapp3.1\sw_read_to_end.exe
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\bin\Debug\netcoreapp3.1\sw_read_to_end.deps.json
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\bin\Debug\netcoreapp3.1\sw_read_to_end.runtimeconfig.json
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\bin\Debug\netcoreapp3.1\sw_read_to_end.runtimeconfig.dev.json
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\bin\Debug\netcoreapp3.1\sw_read_to_end.dll
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\bin\Debug\netcoreapp3.1\sw_read_to_end.pdb
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\obj\Debug\netcoreapp3.1\sw_read_to_end.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\obj\Debug\netcoreapp3.1\sw_read_to_end.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\obj\Debug\netcoreapp3.1\sw_read_to_end.AssemblyInfo.cs
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\obj\Debug\netcoreapp3.1\sw_read_to_end.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\obj\Debug\netcoreapp3.1\sw_read_to_end.dll
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\obj\Debug\netcoreapp3.1\sw_read_to_end.pdb
+C:\Users\HP\source\repos\sw_read_to_end\sw_read_to_end\obj\Debug\netcoreapp3.1\sw_read_to_end.genruntimeconfig.cache
