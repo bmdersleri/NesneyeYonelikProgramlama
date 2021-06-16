@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sw_read_to_end/1.0.0": {
+        "runtime": {
+          "sw_read_to_end.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sw_read_to_end/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\bin\Debug\netcoreapp3.1\streamwriter_writeline.exe
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\bin\Debug\netcoreapp3.1\streamwriter_writeline.deps.json
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\bin\Debug\netcoreapp3.1\streamwriter_writeline.runtimeconfig.json
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\bin\Debug\netcoreapp3.1\streamwriter_writeline.runtimeconfig.dev.json
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\bin\Debug\netcoreapp3.1\streamwriter_writeline.dll
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\bin\Debug\netcoreapp3.1\streamwriter_writeline.pdb
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\obj\Debug\netcoreapp3.1\streamwriter_writeline.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\obj\Debug\netcoreapp3.1\streamwriter_writeline.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\obj\Debug\netcoreapp3.1\streamwriter_writeline.AssemblyInfo.cs
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\obj\Debug\netcoreapp3.1\streamwriter_writeline.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\obj\Debug\netcoreapp3.1\streamwriter_writeline.dll
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\obj\Debug\netcoreapp3.1\streamwriter_writeline.pdb
+C:\Users\HP\source\repos\streamwriter_writeline\streamwriter_writeline\obj\Debug\netcoreapp3.1\streamwriter_writeline.genruntimeconfig.cache
