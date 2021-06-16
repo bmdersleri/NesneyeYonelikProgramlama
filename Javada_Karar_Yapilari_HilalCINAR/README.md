@@ -68,7 +68,9 @@ if (koşul1)
 
    if (koşul2) 
    {
+
       // koşul2 doğru olduğunda çalıştırılır
+
    }
 }
  
