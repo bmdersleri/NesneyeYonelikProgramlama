@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPFUserInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFUserInterface"
+        mc:Ignorable="d"
+        Title="Web Sitesi İndirme" Height="500" Width="825" FontSize="16" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="1" Margin="10 0" FontSize="28"><Run Text="Sync vs. Async Karşılaştırma - Web Site İndirme"/></TextBlock>
+        <Button x:Name="Sync_calis" Grid.Row="2" Margin="10" Padding="10" Click="Sync_Calis_Click" Content="Normal Çalış"/>
+        <Button x:Name="Async_calis" Grid.Row="3" Margin="10" Padding="10" Click="Async_Calis_Click" Content="Async Çalış"/>
+        <TextBlock x:Name="sonuçPenceresi" Grid.Row="4" Margin="10"/> 
+    </Grid>
+</Window>
