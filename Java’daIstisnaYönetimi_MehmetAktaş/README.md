@@ -14,4 +14,4 @@ Kısa Bağlantı: https://bit.ly/32k9MnJ
 
 Github Adresimiz: https://github.com/bmdersleri
 
-Hazırlayan: Amirhossein Sharifi
+Hazırlayan: Mehmet Aktaş
