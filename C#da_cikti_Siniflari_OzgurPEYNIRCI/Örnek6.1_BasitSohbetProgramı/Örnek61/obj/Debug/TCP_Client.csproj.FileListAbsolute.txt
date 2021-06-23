@@ -1,0 +1,7 @@
+C:\Users\Muhut\source\repos\Örnek61\Örnek61\bin\Debug\Örnek61.exe.config
+C:\Users\Muhut\source\repos\Örnek61\Örnek61\bin\Debug\Örnek61.exe
+C:\Users\Muhut\source\repos\Örnek61\Örnek61\bin\Debug\Örnek61.pdb
+C:\Users\Muhut\source\repos\Örnek61\Örnek61\obj\Debug\TCP_Client.csproj.CoreCompileInputs.cache
+C:\Users\Muhut\source\repos\Örnek61\Örnek61\obj\Debug\Örnek61.exe
+C:\Users\Muhut\source\repos\Örnek61\Örnek61\obj\Debug\Örnek61.pdb
+C:\Users\Muhut\source\repos\Örnek61\Örnek61\obj\Debug\TCP_Client.csprojAssemblyReference.cache

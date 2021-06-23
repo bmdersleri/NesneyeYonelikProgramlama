@@ -1,0 +1,17 @@
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\bin\Debug\net5.0-windows\Dosyaİndirme.exe
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\bin\Debug\net5.0-windows\Dosyaİndirme.deps.json
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\bin\Debug\net5.0-windows\Dosyaİndirme.runtimeconfig.json
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\bin\Debug\net5.0-windows\Dosyaİndirme.runtimeconfig.dev.json
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\bin\Debug\net5.0-windows\Dosyaİndirme.dll
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\bin\Debug\net5.0-windows\ref\Dosyaİndirme.dll
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\bin\Debug\net5.0-windows\Dosyaİndirme.pdb
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Örnek62.Form1.resources
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Dosyaİndirme.csproj.GenerateResource.cache
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Dosyaİndirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Dosyaİndirme.AssemblyInfoInputs.cache
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Dosyaİndirme.AssemblyInfo.cs
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Dosyaİndirme.csproj.CoreCompileInputs.cache
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Dosyaİndirme.dll
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\ref\Dosyaİndirme.dll
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Dosyaİndirme.pdb
+C:\Users\Muhut\source\repos\Örnek62\Örnek62\obj\Debug\net5.0-windows\Dosyaİndirme.genruntimeconfig.cache
